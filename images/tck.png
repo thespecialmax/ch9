@@ -1,0 +1,1160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+<title></title><meta name="description" content><meta name="keywords" content><!-- TEMPLATE HEAD SCRIPTS -->
+    <link href="../css/reset.css" rel="stylesheet" type="text/css">
+    <link href="../css/m.css" rel="stylesheet" type="text/css">
+    <link href="../css/jquery.selectbox.css" rel="stylesheet" type="text/css">
+    <link href="../css/media_queries.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="../js/jquery-3.5.1.min.js"></script>
+            <script type="text/javascript" src="../js/jquery-migrate-1.2.1.min.js"></script>
+        <script type="text/javascript" src="../js/jquery-ui-1.11.1.custom.min.js"></script>
+    <script type="text/javascript" src="../js/_qc_minified.js"></script>
+    <script type="text/javascript" src="../js/m.js"></script>
+
+<script type="text/javascript" src="../js/scripts.js"></script><style type="text/css">@import url("../css/styles.css");</style><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDXMZTM');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="m m-images">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="../ns.html" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a href="#" class="back-to-top"></a>
+<div id="custom-header"><!-- Header starts -->
+<link rel="stylesheet" href="../css/uvi2uho.css">
+<link rel="stylesheet" id="font-awesome-css" href="../css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet/less" href="/css/custom/client-header-footer-required.less?ts=10" type="text/css" media="all">
+<script src="../js/less.min.js"></script>
+<link rel="stylesheet" id="redux-google-fonts-salient_redux-css" href="../css/css.css" type="text/css" media="all">
+
+<div id="client-header-wrapper" class="home page-template-default page page-id-12 nectar-auto-lightbox ascend wpb-js-composer js-comp-ver-6.2.0 vc_responsive" data-footer-reveal="false" data-footer-reveal-shadow="none" data-header-format="menu-left-aligned" data-body-border="off" data-boxed-style data-header-breakpoint="1000" data-dropdown-style="minimal" data-cae="easeOutQuart" data-cad="1000" data-megamenu-width="full-width" data-aie="zoom-out" data-ls="magnific" data-apte="center_mask_reveal" data-hhun="1" data-fancy-form-rcs="1" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded" data-user-account-button="false" data-flex-cols="true" data-col-gap="default" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="false" data-full-width-header="true" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="off" data-loading-animation="none" data-bg-header="false" data-responsive="1" data-ext-responsive="true" data-header-resize="0" data-header-color="custom" data-transparent-header="false" data-cart="false" data-remove-m-parallax data-remove-m-video-bgs data-m-animate="0" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false">
+
+
+
+	<a href="http://www.hilcoapac.com/">
+		<div id="header-space" data-secondary-header-display="full" data-header-mobile-fixed="1"></div>
+	</a>
+
+
+	<div id="header-outer" class data-has-menu="true" data-has-buttons="no" data-header-button_style="default" data-using-pr-menu="true" data-mobile-fixed="1" data-ptnm="false" data-lhe="animated_underline" data-user-set-bg="#ffffff" data-format="menu-left-aligned" data-permanent-transparent="false" data-megamenu-rt="0" data-remove-fixed="1" data-header-resize="0" data-cart="false" data-transparency-option="0" data-box-shadow="large" data-shrink-num="6" data-using-secondary="1" data-using-logo="1" data-logo-height="50" data-m-logo-height="50" data-padding="10" data-full-width="true" data-condense="false">
+
+
+
+
+
+		<header id="top">
+			<div class="container">
+				<div class="row">
+					<div class="col span_3">
+						<a id="logo" href="http://www.hilcoapac.com/" data-supplied-ml-starting-dark="true" data-supplied-ml-starting="true" data-supplied-ml="true">
+							<img class="stnd default-logo" alt="Hilco APAC | Online Auctions &amp; Marketplace" src="logo-dark.png" srcset="logo-dark_1.png 1x, logo-dark_1.png 2x"><img class="mobile-only-logo" alt="Hilco APAC | Online Auctions &amp; Marketplace" src="logo-dark.png">
+						</a>
+
+					</div>
+					<!--/span_3-->
+
+					<div class="col span_9 col_last">
+						<div class="slide-out-widget-area-toggle mobile-icon slide-out-from-right" data-custom-color="false" data-icon-animation="simple-transform">
+							<div> <a href="#sidewidgetarea" aria-label="Navigation Menu" aria-expanded="false" class="closed">
+									<span aria-hidden="true"> <i class="lines-button x2"> <i class="lines"></i> </i>
+									</span>
+								</a></div>
+						</div>
+
+
+						<nav>
+
+							<ul class="sf-menu">
+								<li id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-326">
+									<a href="https://www.hilcoapac.com/categories">Categories<span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+									<ul class="sub-menu">
+
+
+
+
+
+
+										<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-327">
+											<a href="https://www.hilcoapac.com/subcategories/construction-civil-and-mining" class="sf-with-ul">Construction, Civil &amp; Mining<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+											<ul class="sub-menu">
+												<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-377">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C59&amp;xclosed=yes">Access
+														Equipment</a></li>
+												<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C70&amp;xclosed=yes">Batch
+														Plants</a></li>
+												<li id="menu-item-399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C68&amp;xclosed=yes">Conveying</a>
+												</li>
+												<li id="menu-item-392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C60%20&amp;xclosed=yes">Cranes</a>
+												</li>
+												<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C67&amp;xclosed=yes">Crushing/Milling/Screening</a>
+												</li>
+												<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C21&amp;xclosed=yes">Dozers</a>
+												</li>
+												<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C39&amp;xclosed=yes">Drilling</a>
+												</li>
+												<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C18&amp;xclosed=yes">Dump
+														Trucks</a></li>
+												<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C17&amp;xclosed=yes">Excavators</a>
+												</li>
+												<li id="menu-item-395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-395">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C63&amp;xclosed=yes">Generators
+														&amp; Compressors</a></li>
+												<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C20&amp;xclosed=yes">Graders</a>
+												</li>
+												<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C19&amp;xclosed=yes">Loaders</a>
+												</li>
+												<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C57&amp;xclosed=yes">Pipe
+														Laying</a></li>
+												<li id="menu-item-397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-397">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C66&amp;xclosed=yes">Process
+														Plants</a></li>
+												<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C28&amp;xclosed=yes">Rollers
+														&amp; Compaction</a></li>
+												<li id="menu-item-394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-394">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C62&amp;xclosed=yes">Scaffold/Formwork</a>
+												</li>
+												<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C56&amp;xclosed=yes">Scrapers</a>
+												</li>
+												<li id="menu-item-396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-396">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C65&amp;xclosed=yes">Shipping
+														Containers</a></li>
+												<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C22&amp;xclosed=yes">Skid
+														Steers</a></li>
+												<li id="menu-item-393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-393">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C61&amp;xclosed=yes">Transportable
+														Buildings</a></li>
+												<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C35&amp;xclosed=yes">Underground
+														Mining</a></li>
+												<li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C69&amp;xclosed=yes">Ventilation,
+														Electrical &amp; Pumps</a></li>
+											</ul>
+										</li>
+
+
+
+										<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-350">
+											<a href="http://www.hilcoapac.com/subcategories/transport-and-logistics">Transport
+												&#038;
+												Logistics<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+
+
+
+
+											<ul class="sub-menu">
+												<li id="menu-item-406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-406">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C36&amp;xclosed=yes">Forklifts</a>
+												</li>
+												<li id="menu-item-407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-407">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C73&amp;xclosed=yes">Packaging
+														&amp; Palletising</a></li>
+												<li id="menu-item-405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C72&amp;xclosed=yes">Racking
+														&amp; Shelving</a></li>
+												<li id="menu-item-403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C16&amp;xclosed=yes">Trailers</a>
+												</li>
+												<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C15&amp;xclosed=yes">Trucks</a>
+												</li>
+												<li id="menu-item-404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C71&amp;xclosed=yes">Water
+														Cart</a></li>
+											</ul>
+
+
+										</li>
+										<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-349">
+											<a href="http://www.hilcoapac.com/subcategories/manufacturing-and-production">Engineering
+												&#038;
+												Manufacturing<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+
+
+
+											<ul class="sub-menu">
+												<li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C80&amp;xclosed=yes">Biotech/Medical/Laboratory</a>
+												</li>
+												<li id="menu-item-978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-978">
+													<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C149&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Drilling
+														Machines</a></li>
+												<li id="menu-item-408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-408">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C75&amp;xclosed=yes">Engineering
+														&amp; Toolmaking</a></li>
+												<li id="menu-item-980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-980">
+													<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C202&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Food
+														Manufacturing</a></li>
+												<li id="menu-item-979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-979">
+													<a href="https://auctions.hilcoapac.com/search?page=1&view=list&cat=74%2C150&catm=any&order=lot_name&live=no&hybrid=no&timed=no&regular=no&buynow=no&makeoffer=no&xclosed=yes&featured=no">Milling
+														Machines</a></li>
+												<li id="menu-item-409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-409">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C76&amp;xclosed=yes">Plastics</a>
+												</li>
+												<li id="menu-item-981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-981">
+													<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C281&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Printing</a>
+												</li>
+												<li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-413">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C81&amp;xclosed=yes">Safety</a>
+												</li>
+												<li id="menu-item-411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-411">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C78&amp;xclosed=yes">Sheetmetal</a>
+												</li>
+												<li id="menu-item-982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-982">
+													<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C79&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Steel
+														Fabrication</a></li>
+												<li id="menu-item-410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-410">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C77&amp;xclosed=yes">Woodworking
+														&amp; Sawmilling</a></li>
+											</ul>
+
+
+										</li>
+										<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-348">
+											<a href="http://www.hilcoapac.com/subcategories/agriculture-and-food">Primary
+												Industry
+												&#038; Food Production<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+
+
+											<ul class="sub-menu">
+												<li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-421">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C87&amp;xclosed=yes">Aquaculture</a>
+												</li>
+												<li id="menu-item-422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-422">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C140&amp;xclosed=yes">Catering
+														Equipment</a></li>
+												<li id="menu-item-420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C86&amp;xclosed=yes">Grain
+														Handling</a></li>
+												<li id="menu-item-415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-415">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C31&amp;xclosed=yes">Harvest</a>
+												</li>
+												<li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C85&amp;xclosed=yes">Hay</a>
+												</li>
+												<li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C82&amp;xclosed=yes">Livestock</a>
+												</li>
+												<li id="menu-item-811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-811">
+													<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=4%2C285&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Mowers</a>
+												</li>
+												<li id="menu-item-417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C83&amp;xclosed=yes">Production
+														&amp; Packaging</a></li>
+												<li id="menu-item-418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C84&amp;xclosed=yes">Seeding
+														&amp; Tillage</a></li>
+												<li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C29&amp;xclosed=yes">Tractors</a>
+												</li>
+											</ul>
+
+										</li>
+										<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-347">
+											<a href="http://www.hilcoapac.com/subcategories/auto-marine-and-aviation">Auto,
+												Marine &#038;
+												Aviation<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+
+
+											<ul class="sub-menu">
+												<li id="menu-item-426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-426">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C8&amp;xclosed=yes">Aviation</a>
+												</li>
+												<li id="menu-item-425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C12&amp;xclosed=yes">Boats</a>
+												</li>
+												<li id="menu-item-428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-428">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C88&amp;xclosed=yes">Busses</a>
+												</li>
+												<li id="menu-item-427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C11&amp;xclosed=yes">Caravans/RV’s</a>
+												</li>
+												<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C9&amp;xclosed=yes">Cars</a>
+												</li>
+												<li id="menu-item-424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-424">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C10&amp;xclosed=yes">Motorbikes</a>
+												</li>
+											</ul>
+
+
+
+										</li>
+										<li id="menu-item-346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-346">
+											<a href="http://www.hilcoapac.com/subcategories/home-and-consumer">Home
+												&#038; Lifestyle<span class="sf-sub-indicator"><i class="fa fa-angle-right icon-in-menu"></i></span></a>
+
+
+											<ul class="sub-menu">
+												<li id="menu-item-431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-431">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C94&amp;xclosed=yes">Appliances
+														&amp; Whitegoods</a></li>
+												<li id="menu-item-432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C95&amp;xclosed=yes">BBQs
+														&amp; Outdoor</a></li>
+												<li id="menu-item-435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-435">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C99&amp;xclosed=yes">Building
+														Materials</a></li>
+												<li id="menu-item-438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C109&amp;xclosed=yes">Clothing
+														&amp; Accessories</a></li>
+												<li id="menu-item-429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-429">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C92&amp;xclosed=yes">Computers
+														&amp; Accessories</a></li>
+												<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C91&amp;xclosed=yes">Electronics</a>
+												</li>
+												<li id="menu-item-433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433">
+													<a href="https://auctions.hilcoapac.com/search?&cat=89%2C303&xclosed=yes">Furniture</a>
+												</li>
+												<li id="menu-item-439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-439">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C104&amp;xclosed=yes">Health
+														&amp; Beauty</a></li>
+												<li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C103&amp;xclosed=yes">Homewares</a>
+												</li>
+												<li id="menu-item-437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-437">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C108&amp;xclosed=yes">Jewellery</a>
+												</li>
+												<li id="menu-item-436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-436">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C98&amp;xclosed=yes">Power
+														and Hand Tools</a></li>
+												<li id="menu-item-440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-440">
+													<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C105&amp;xclosed=yes">Alcohol</a>
+												</li>
+											</ul>
+
+										</li>
+									</ul>
+								</li>
+								<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://auctions.hilcoapac.com/">Sales</a></li>
+								<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="https://www.hilcoapac.com/sell">Sell</a></li>
+								<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="https://auctions.hilcoapac.com/auctions/catalog/id/6?view=grid">Hilco
+										Market</a></li>
+
+
+								<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="https://www.hilcoapac.com/finance">Finance</a></li>
+
+
+								<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-732">
+									<a href="https://www.hilcoapac.com/about">About<span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+									<ul class="sub-menu">
+										<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733">
+											<a href="https://www.hilcoapac.com/contact">Contact</a>
+										</li>
+
+									</ul>
+								</li>
+
+								<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734">
+								<a href="https://www.hilcoapac.com/faq">FAQ</a></li>
+
+
+							</ul>
+
+
+
+						</nav>
+
+
+					</div>
+					<!--/span_9-->
+
+					<div class="right-aligned-menu-items">
+						<nav>
+							<ul class="buttons sf-menu" data-user-set-ocm="off">
+
+								<li id="menu-item-522" class="menu-item menu-item-type-custom menu-item-object-custom button_solid_color_2 menu-item-522">
+									<a href="https://auctions.hilcoapac.com/signup">Create Account</a>
+								</li>
+								<li id="menu-item-499" class="remove-padding menu-item menu-item-type-custom menu-item-object-custom menu-item-499">
+									<a href="https://auctions.hilcoapac.com/my-items/watchlist"><svg class="mm-tr-svg">
+											<path fill="none" d="M0 0h24v24H0V0z"/>
+											<path d="M19.65 9.04l-4.84-.42-1.89-4.45c-.34-.81-1.5-.81-1.84 0L9.19 8.63l-4.83.41c-.88.07-1.24 1.17-.57 1.75l3.67 3.18-1.1 4.72c-.2.86.73 1.54 1.49 1.08l4.15-2.5 4.15 2.51c.76.46 1.69-.22 1.49-1.08l-1.1-4.73 3.67-3.18c.67-.58.32-1.68-.56-1.75zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z">
+											</path>
+										</svg> <span class="mm-tr">Watchlist</span></a>
+								</li>
+								<li id="menu-item-493" class="remove-padding menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-493">
+									<a href="https://auctions.hilcoapac.com/login/index"><svg class="mm-tr-svg">
+											<path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z">
+											</path>
+										</svg> <span class="mm-tr">My Account</span><span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+									<ul class="sub-menu">
+										<li id="menu-item-494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-494">
+											<a href="https://auctions.hilcoapac.com/profile/view">Profile</a>
+										</li>
+										<li id="menu-item-495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-495">
+											<a href="https://auctions.hilcoapac.com/my-alerts">My Alerts</a>
+										</li>
+										<li id="menu-item-496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-496">
+											<a href="https://auctions.hilcoapac.com/my-items/all">My Items</a>
+										</li>
+										<li id="menu-item-497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497">
+											<a href="https://auctions.hilcoapac.com/my-invoices">My Invoices</a>
+										</li>
+										<li id="menu-item-498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-498">
+											<a href="https://auctions.hilcoapac.com/logout">Logout</a>
+										</li>
+									</ul>
+								</li>
+								<li id="menu-item-735" class="remove-padding menu-item menu-item-type-custom menu-item-object-custom menu-item-735">
+									<a href="https://auctions.hilcoapac.com/search"><svg class="mm-tr-svg" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+											<path xmlns="http://www.w3.org/2000/svg" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+											</path>
+										</svg> <span class="mm-tr">My Search</span></a>
+								</li>
+
+							</ul>
+
+						</nav>
+					</div>
+					<!--/right-aligned-menu-items-->
+
+
+				</div>
+				<!--/row-->
+			</div>
+			<!--/container-->
+		</header>
+
+	</div>
+
+
+
+
+	<div id="ajax-content-wrap">
+
+
+
+
+
+
+		<!--/footer-outer-->
+
+
+
+		<!-- sliding drawer for mobile -->
+
+		<div id="slide-out-widget-area-bg" class="slide-out-from-right light">
+		</div>
+
+
+		<div id="slide-out-widget-area" class="slide-out-from-right" data-dropdown-func="separate-dropdown-parent-link" data-back-txt="Back">
+
+
+			<div class="inner" data-prepend-menu-mobile="false">
+
+				<a class="slide_out_area_close" href="#">
+					<span class="icon-salient-x icon-default-style"></span> </a>
+
+
+				<div class="off-canvas-menu-container mobile-only">
+
+
+					<ul class="menu">
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-326">
+							<a href="https://www.hilcoapac.com/categories">Categories</a>
+							<ul class="sub-menu">
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-327">
+									<a href="http://www.hilcoapac.com/subcategories/earthmoving-and-mining">Construction, Civil
+										&#038; Mining</a>
+									
+										
+									<ul class="sub-menu">
+										<li id="menu-item-377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-377">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C59&amp;xclosed=yes">Access
+												Equipment</a></li>
+										<li id="menu-item-401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C70&amp;xclosed=yes">Batch
+												Plants</a></li>
+										<li id="menu-item-399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C68&amp;xclosed=yes">Conveying</a>
+										</li>
+										<li id="menu-item-392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C60%20&amp;xclosed=yes">Cranes</a>
+										</li>
+										<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C67&amp;xclosed=yes">Crushing/Milling/Screening</a>
+										</li>
+										<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C21&amp;xclosed=yes">Dozers</a>
+										</li>
+										<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C39&amp;xclosed=yes">Drilling</a>
+										</li>
+										<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C18&amp;xclosed=yes">Dump
+												Trucks</a></li>
+										<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C17&amp;xclosed=yes">Excavators</a>
+										</li>
+										<li id="menu-item-395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-395">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C63&amp;xclosed=yes">Generators
+												&amp; Compressors</a></li>
+										<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C20&amp;xclosed=yes">Graders</a>
+										</li>
+										<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C19&amp;xclosed=yes">Loaders</a>
+										</li>
+										<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C57&amp;xclosed=yes">Pipe
+												Laying</a></li>
+										<li id="menu-item-397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-397">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C66&amp;xclosed=yes">Process
+												Plants</a></li>
+										<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C28&amp;xclosed=yes">Rollers
+												&amp; Compaction</a></li>
+										<li id="menu-item-394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-394">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C62&amp;xclosed=yes">Scaffold/Formwork</a>
+										</li>
+										<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C56&amp;xclosed=yes">Scrapers</a>
+										</li>
+										<li id="menu-item-396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-396">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C65&amp;xclosed=yes">Shipping
+												Containers</a></li>
+										<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C22&amp;xclosed=yes">Skid
+												Steers</a></li>
+										<li id="menu-item-393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-393">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=58%2C61&amp;xclosed=yes">Transportable
+												Buildings</a></li>
+										<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=3%2C35&amp;xclosed=yes">Underground
+												Mining</a></li>
+										<li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400">
+											<a href="//auctions.hilcoapac.com/search?&amp;cat=5%2C69&amp;xclosed=yes">Ventilation,
+												Electrical &amp; Pumps</a></li>
+									</ul>
+
+
+
+								</li>
+								
+								
+								
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-350">
+									<a href="http://www.hilcoapac.com/subcategories/transport-and-logistics">Transport
+										&#038;
+										Logistics</a>
+									
+
+										<ul class="sub-menu">
+											<li id="menu-item-406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-406">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C36&amp;xclosed=yes">Forklifts</a>
+											</li>
+											<li id="menu-item-407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-407">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C73&amp;xclosed=yes">Packaging
+													&amp; Palletising</a></li>
+											<li id="menu-item-405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C72&amp;xclosed=yes">Racking
+													&amp; Shelving</a></li>
+											<li id="menu-item-403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C16&amp;xclosed=yes">Trailers</a>
+											</li>
+											<li id="menu-item-402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C15&amp;xclosed=yes">Trucks</a>
+											</li>
+											<li id="menu-item-404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=1%2C71&amp;xclosed=yes">Water
+													Cart</a></li>
+										</ul>
+
+
+
+
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-349">
+									<a href="http://www.hilcoapac.com/subcategories/manufacturing-and-production">Engineering
+										&#038;
+										Manufacturing</a>
+									
+
+										<ul class="sub-menu">
+											<li id="menu-item-412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-412">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C80&amp;xclosed=yes">Biotech/Medical/Laboratory</a>
+											</li>
+											<li id="menu-item-978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-978">
+												<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C149&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Drilling
+													Machines</a></li>
+											<li id="menu-item-408" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-408">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C75&amp;xclosed=yes">Engineering
+													&amp; Toolmaking</a></li>
+											<li id="menu-item-980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-980">
+												<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C202&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Food
+													Manufacturing</a></li>
+											<li id="menu-item-979" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-979">
+												<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C150&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Milling
+													Machines</a></li>
+											<li id="menu-item-409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-409">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C76&amp;xclosed=yes">Plastics</a>
+											</li>
+											<li id="menu-item-981" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-981">
+												<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C281&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Printing</a>
+											</li>
+											<li id="menu-item-413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-413">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C81&amp;xclosed=yes">Safety</a>
+											</li>
+											<li id="menu-item-411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-411">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C78&amp;xclosed=yes">Sheetmetal</a>
+											</li>
+											<li id="menu-item-982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-982">
+												<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=74%2C79&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Steel
+													Fabrication</a></li>
+											<li id="menu-item-410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-410">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=74%2C77&amp;xclosed=yes">Woodworking
+													&amp; Sawmilling</a></li>
+										</ul>
+
+
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-348">
+									<a href="http://www.hilcoapac.com/subcategories/agriculture-and-food">Industry
+										&#038; Food Production</a>
+									
+
+										<ul class="sub-menu">
+											<li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-421">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C87&amp;xclosed=yes">Aquaculture</a>
+											</li>
+											<li id="menu-item-422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-422">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C140&amp;xclosed=yes">Catering
+													Equipment</a></li>
+											<li id="menu-item-420" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C86&amp;xclosed=yes">Grain
+													Handling</a></li>
+											<li id="menu-item-415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-415">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C31&amp;xclosed=yes">Harvest</a>
+											</li>
+											<li id="menu-item-419" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C85&amp;xclosed=yes">Hay</a>
+											</li>
+											<li id="menu-item-416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C82&amp;xclosed=yes">Livestock</a>
+											</li>
+											<li id="menu-item-811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-811">
+												<a href="https://auctions.hilcoapac.com/search?page=1&amp;view=list&amp;cat=4%2C285&amp;catm=any&amp;order=lot_name&amp;live=no&amp;hybrid=no&amp;timed=no&amp;regular=no&amp;buynow=no&amp;makeoffer=no&amp;xclosed=yes&amp;featured=no">Mowers</a>
+											</li>
+											<li id="menu-item-417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C83&amp;xclosed=yes">Production
+													&amp; Packaging</a></li>
+											<li id="menu-item-418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C84&amp;xclosed=yes">Seeding
+													&amp; Tillage</a></li>
+											<li id="menu-item-414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=4%2C29&amp;xclosed=yes">Tractors</a>
+											</li>
+										</ul>
+
+
+
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-347">
+									<a href="http://www.hilcoapac.com/subcategories/auto-marine-and-aviation">Auto,
+										Marine &#038;
+										Aviation</a>
+
+										<ul class="sub-menu">
+											<li id="menu-item-426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-426">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C8&amp;xclosed=yes">Aviation</a>
+											</li>
+											<li id="menu-item-425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C12&amp;xclosed=yes">Boats</a>
+											</li>
+											<li id="menu-item-428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-428">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C88&amp;xclosed=yes">Busses</a>
+											</li>
+											<li id="menu-item-427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C11&amp;xclosed=yes">Caravans/RV’s</a>
+											</li>
+											<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C9&amp;xclosed=yes">Cars</a>
+											</li>
+											<li id="menu-item-424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-424">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=7%2C10&amp;xclosed=yes">Motorbikes</a>
+											</li>
+										</ul>
+
+
+								</li>
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-346">
+									<a href="http://www.hilcoapac.com/subcategories/home-and-consumer">Home &#038;
+										Lifestyle</a>
+
+										<ul class="sub-menu">
+											<li id="menu-item-431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-431">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C94&amp;xclosed=yes">Appliances
+													&amp; Whitegoods</a></li>
+											<li id="menu-item-432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C95&amp;xclosed=yes">BBQs
+													&amp; Outdoor</a></li>
+											<li id="menu-item-435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-435">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C99&amp;xclosed=yes">Building
+													Materials</a></li>
+											<li id="menu-item-438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-438">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C109&amp;xclosed=yes">Clothing
+													&amp; Accessories</a></li>
+											<li id="menu-item-429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-429">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C92&amp;xclosed=yes">Computers
+													&amp; Accessories</a></li>
+											<li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C91&amp;xclosed=yes">Electronics</a>
+											</li>
+											<li id="menu-item-433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433">
+												<a href="https://auctions.hilcoapac.com/search?&cat=89%2C303&xclosed=yes">Furniture</a>
+											</li>
+											<li id="menu-item-439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-439">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C104&amp;xclosed=yes">Health
+													&amp; Beauty</a></li>
+											<li id="menu-item-434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-434">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C103&amp;xclosed=yes">Homewares</a>
+											</li>
+											<li id="menu-item-437" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-437">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C108&amp;xclosed=yes">Jewellery</a>
+											</li>
+											<li id="menu-item-436" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-436">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C98&amp;xclosed=yes">Power
+													and Hand Tools</a></li>
+											<li id="menu-item-440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-440">
+												<a href="//auctions.hilcoapac.com/search?&amp;cat=89%2C105&amp;xclosed=yes">Alcohol</a>
+											</li>
+										</ul>
+
+
+								</li>
+							</ul>
+						</li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a href="https://auctions.hilcoapac.com/">Sales</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a href="http://www.hilcoapac.com/sell">Sell</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="https://auctions.hilcoapac.com/auctions/catalog/id/6?view=grid">Hilco Market</a>
+						</li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-731"><a href="https://www.hilcoapac.com/finance">Finance</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-732">
+							<a href="https://hilcoapac.com/about">About</a>
+							<ul class="sub-menu">
+								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="https://hilcoapac.com/contact">Contact</a></li>
+								
+							</ul>
+						</li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734"><a href="https://hilcoapac.com/faq">FAQ</a></li>
+						<li class="menu-item menu-item-type-custom menu-item-object-custom button_solid_color_2 menu-item-522">
+							<a href="https://auctions.hilcoapac.com/signup">Create Account</a>
+						</li>
+						<li class="remove-padding menu-item menu-item-type-custom menu-item-object-custom menu-item-499">
+							<a href="https://auctions.hilcoapac.com/my-items/watchlist"><svg class="mm-tr-svg">
+									<path fill="none" d="M0 0h24v24H0V0z"/>
+									<path d="M19.65 9.04l-4.84-.42-1.89-4.45c-.34-.81-1.5-.81-1.84 0L9.19 8.63l-4.83.41c-.88.07-1.24 1.17-.57 1.75l3.67 3.18-1.1 4.72c-.2.86.73 1.54 1.49 1.08l4.15-2.5 4.15 2.51c.76.46 1.69-.22 1.49-1.08l-1.1-4.73 3.67-3.18c.67-.58.32-1.68-.56-1.75zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z">
+									</path>
+								</svg> <span class="mm-tr">Watchlist</span></a>
+						</li>
+						<li class="remove-padding menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-493">
+							<a href="https://auctions.hilcoapac.com/login/index"><svg class="mm-tr-svg">
+									<path d="M12 5.9c1.16 0 2.1.94 2.1 2.1s-.94 2.1-2.1 2.1S9.9 9.16 9.9 8s.94-2.1 2.1-2.1m0 9c2.97 0 6.1 1.46 6.1 2.1v1.1H5.9V17c0-.64 3.13-2.1 6.1-2.1M12 4C9.79 4 8 5.79 8 8s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm0 9c-2.67 0-8 1.34-8 4v3h16v-3c0-2.66-5.33-4-8-4z">
+									</path>
+								</svg> <span class="mm-tr">My Account</span><span class="sf-sub-indicator"><i class="fa fa-angle-down icon-in-menu"></i></span></a>
+							<ul class="sub-menu">
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-494"><a href="https://auctions.hilcoapac.com/profile/view">Profile</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-495"><a href="https://auctions.hilcoapac.com/my-alerts">My Alerts</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-496"><a href="https://auctions.hilcoapac.com/my-items/all">My Items</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497"><a href="https://auctions.hilcoapac.com/my-invoices">My Invoices</a></li>
+								<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-498"><a href="https://auctions.hilcoapac.com/logout">Logout</a></li>
+							</ul>
+						</li>
+						<li class="remove-padding menu-item menu-item-type-custom menu-item-object-custom menu-item-735">
+							<a href="https://auctions.hilcoapac.com/search"><svg class="mm-tr-svg" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="presentation">
+									<path xmlns="http://www.w3.org/2000/svg" d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z">
+									</path>
+								</svg> <span class="mm-tr">My Search</span></a>
+						</li>
+
+					</ul>
+
+					<ul class="menu secondary-header-items">
+					</ul>
+				</div>
+
+			</div>
+
+			<div class="bottom-meta-wrap"></div>
+			<!--/bottom-meta-wrap-->
+		</div>
+
+		<!-- sliding drawer for mobile -->
+
+	</div>
+
+
+
+
+	<div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies
+			Policy</span>
+	</div>
+
+
+
+
+	<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+	<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+
+</div>
+
+<script type="text/javascript" src="../js/client-header-footer.js"></script>
+
+<script>
+
+	//var css_url = "/css/custom/styles-custom.css?" + new Date().getTime();
+	var css_url = "/css/custom/styles-custom.css";
+	$('head').append("<link rel='stylesheet' id='divi-style-css' href=" + css_url + " type='text/css' media='all' />");
+	//var js_url = "/css/custom/js/scripts-custom.js?" + new Date().getTime();
+	var js_url = "/css/custom/js/scripts-custom.js";
+
+	var jsElm = document.createElement("script");
+	// set the type attribute
+	jsElm.type = "application/javascript";
+	// make the script element load file
+	jsElm.src = js_url;
+	console.log("jsElm.src - ", jsElm.src);
+	// finally insert the element to the body element in order to load the script
+	document.body.appendChild(jsElm);
+
+
+
+
+</script>
+
+
+
+<!-- Header ends --></div><header id="headsec" class="clear">
+<div class="mobile-hamburger-menu"><a class="fas fa-bars"></a></div>
+<nav>
+<ul class="listnav">
+    <li class="search" title="Search">
+        <a href="#" class="magnifying-icon"></a>
+        <form id="searchFilter" action="/search">
+            <div class="search-wrapper">
+                <div class="search-input-container">
+                    <input id="txtSearch" name="key" type="text">
+                    <input id="btnSearch" type="button" value="search">
+                </div>
+                                <div class="exclude-checkbox-container">
+                    <div class="selector smsel">
+                        <input type="checkbox" id="excludeClosed" name="xclosed" checked>
+                        <label for="excludeClosed" class="flt">Exclude closed lots</label>
+                        <input type="hidden" id="hid_excludeClosed" name="xclosed">
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </li>
+
+        <li class title="Sales">
+            <a href="https://auctions.hilcoapac.com/auctions">Sales</a>
+        </li>
+        <li class title="My Items">
+            <a href="https://auctions.hilcoapac.com/my-items">My Items</a>
+        </li>
+        <li class title="My Alerts">
+            <a href="https://auctions.hilcoapac.com/my-alerts">My Alerts</a>
+        </li>
+        <li class title="Signup">
+            <a href="https://auctions.hilcoapac.com/signup?url=https%3A%2F%2Fauctions.hilcoapac.com%2Fm%2Fimages%2Ftck.png">Signup</a>
+        </li>
+        <li class title="Login">
+            <a href="https://auctions.hilcoapac.com/login/index?url=https%3A%2F%2Fauctions.hilcoapac.com%2Fm%2Fimages%2Ftck.png">Login</a>
+        </li>
+</ul>
+</nav>
+
+
+    <div class="clear"></div>
+</header>
+<div id="wrapper">
+<div id="flash-notification"></div>
+<div id="dialog-message"></div>
+    <script type="text/javascript" src="../js/m_notifications_messages.js"></script>
+<script type="text/javascript">
+$(function(){
+sam.serverData.add("dataUrl", "/general/data/sitewidemessage.txt");
+sam.serverData.add("dataUpdateInterval", 90000);
+});
+</script>
+<div id="sitewidemessage" style="display:none;">
+</div><div>
+    You don't have permission to access this page.</div>
+</div><!-- //wrapper -->
+<div id="language-select-wrapper">
+    <div id="language-select">
+        <span class="qlistbox-ctl">
+            <div id="language-select">
+                <select name="lang" class="listbox" id="lang">
+                    <option value="https://auctions.hilcoapac.com/language?ln=0">English</option>
+                        <option value="https://auctions.hilcoapac.com/language?ln=2">
+                            Bahasa                        </option>
+                </select>
+                <div class="clear"></div>
+            </div>
+        </span>
+    </div>
+</div>
+<div class="clear"></div><footer>
+<!-- Footer starts -->
+<div id="client-footer-wrapper">
+	<div class="home page-template-default page page-id-12 nectar-auto-lightbox ascend wpb-js-composer js-comp-ver-6.2.0 vc_responsive">
+		<div id="footer-outer" style="background-image:url(footer-bg.jpg);" data-midnight="light" data-cols="4" data-custom-color="true" data-disable-copyright="false" data-matching-section-color="true" data-copyright-line="false" data-using-bg-img="true" data-bg-img-overlay="0.0" data-full-width="false" data-using-widget-area="true" data-link-hover="default">
+
+
+			<div id="footer-widgets" data-has-widgets="true" data-cols="4">
+
+				<div class="container">
+
+
+					<div class="row">
+
+
+						<div class="col span_3" style="margin-bottom: 0;">
+							<!-- Footer widget area 1 -->
+							<div id="nav_menu-2" class="widget widget_nav_menu" style="margin-bottom: 0">
+								<h4>Categories</h4>
+								<div class="menu-categories-footer-menu-1-container">
+
+									<ul id="menu-categories-footer-menu-1" class="menu">
+										<li id="menu-item-381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381">
+											<a href="https://www.hilcoapac.com/subcategories/construction-civil-and-mining">Construction,
+												Civil &amp; Mining</a></li>
+										<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378">
+											<a href="https://www.hilcoapac.com/subcategories/transport-and-logistics">Transport
+												&amp; Logistics</a></li>
+										<li id="menu-item-977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-977">
+											<a href="https://www.hilcoapac.com/subcategories/home-and-lifestyle">Home
+												&amp; Lifestyle</a></li>
+									</ul>
+
+								</div>
+							</div>
+						</div>
+						<!--/span_3-->
+
+
+						<div class="col span_3">
+							<!-- Footer widget area 2 -->
+							<div id="nav_menu-3" class="widget widget_nav_menu" style="margin-bottom: 0">
+								<h4> </h4>
+								<div class="menu-categories-footer-menu-2-container">
+									
+
+									<ul id="menu-categories-footer-menu-2" class="menu"><li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="https://www.hilcoapac.com/subcategories/engineering-and-manufacturing">Engineering &amp; Manufacturing</a></li>
+										<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://www.hilcoapac.com/subcategories/primary-industry-food-production">Primary Industry &amp; Food Production</a></li>
+										<li id="menu-item-383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://www.hilcoapac.com/subcategories/auto-marine-and-aviation">Auto, Marine &amp; Aviation</a></li>
+										</ul>
+
+
+								</div>
+							</div>
+						</div>
+						<!--/span_3-->
+
+
+
+						<div class="col span_3">
+							<!-- Footer widget area 3 -->
+							<div id="nav_menu-4" class="widget widget_nav_menu">
+								<h4>Resources</h4>
+
+								<div class="menu-resources-footer-menu-3-container">
+									<ul id="menu-resources-footer-menu-3" class="menu">
+										<li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903">
+											<a href="https://www.hilcoapac.com/buyer-agreement">Buyer Agreement</a>
+										</li>
+										<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387">
+											<a href="https://www.hilcoapac.com/terms">Terms &amp; Conditions</a>
+										</li>
+										<li id="menu-item-388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388">
+											<a href="https://www.hilcoapac.com/privacy-policy">Privacy Policy</a>
+										</li>
+										<li id="menu-item-386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-386">
+											<a href="https://www.hilcoapac.com/faq">FAQs</a>
+										</li>
+									</ul>
+								</div>
+
+
+
+							</div>
+						</div>
+						<!--/span_3-->
+
+						<div class="col span_3">
+							<!-- Footer widget area 4 -->
+							<div id="nav_menu-5" class="widget widget_nav_menu" style="margin-bottom: 0">
+								<h4>About Us</h4>
+
+								<div class="menu-about-us-footer-menu-4-container">
+									<ul id="menu-about-us-footer-menu-4" class="menu">
+										<li id="menu-item-390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-390">
+											<a href="https://www.hilcoapac.com/about">About Hilco</a>
+										</li>
+										<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391">
+											<a href="https://www.hilcoapac.com/finance">Hilco Finance</a>
+										</li>
+										<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523">
+											<a href="https://www.hilcoapac.com/contact">Contact Us</a>
+										</li>
+										<li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906">
+											<a href="https://www.hilcoapac.com/sitemap">Site Map</a>
+										</li>
+									</ul>
+								</div>
+
+
+							</div>
+						</div>
+						<!--/span_3-->
+
+					</div>
+					<!--/row-->
+					<div class="footer-extra col span_12 clear-both">
+
+						<div id="fws_5f4e73a0471f7" data-column-margin="default" data-midnight="dark" class="wpb_row vc_row-fluid vc_row standard_section " style="padding-top: 0px; padding-bottom: 0px; ">
+							<div class="row-bg-wrap" data-bg-animation="none" data-bg-overlay="false">
+								<div class="inner-wrap">
+									<div class="row-bg" style></div>
+								</div>
+								<div class="row-bg-overlay"></div>
+							</div>
+							<div class="row_col_wrap_12 col span_12 dark left">
+								<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding inherit_tablet inherit_phone " data-t-w-inherits="default" data-bg-cover data-padding-pos="all" data-has-bg-color="false" data-bg-color data-bg-opacity="1" data-hover-bg data-hover-bg-opacity="1" data-animation data-delay="0">
+									<div class="vc_column-inner">
+										<div class="column-bg-overlay-wrap" data-bg-animation="none">
+											<div class="column-bg-overlay"></div>
+										</div>
+										<div class="wpb_wrapper">
+
+											<div class="wpb_text_column wpb_content_element ">
+												<div class="wpb_wrapper">
+													<p><a class="footer-content" href="https://hilcoapac.com/liquor-licensing-acts"><strong>Hilco
+																Global
+																Australasia supports the Responsible Service of
+																Alcohol.</strong></a><br>
+														<strong>Victoria:</strong> Under the Liquor Control Reform Act
+														1998 it is an offence to
+														supply alcohol to a person under the age of 18 years (Penalty
+														exceeds $19,000) &#8211; For a
+														person under the age of 18 years to purchase or receive liquor.
+														(Penalty exceeds $800)
+														<strong>South Australia:</strong> Liquor Licensing Act 1997
+														&#8211; Liquor must NOT be
+														supplied to persons under 18. <strong>New South Wales:</strong>
+														Liquor Act 2007 &#8211; It
+														is against the law to sell or supply alcohol to, or to obtain
+														alcohol on behalf of, a person
+														under the age of 18 years. <strong>Queensland:</strong> Under
+														the Liquor Act 1992, it is an
+														offence to supply liquor to a person under the age of 18 years
+													</p>
+												</div>
+											</div>
+
+
+
+
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+				<!--/container-->
+
+			</div>
+			<!--/footer-widgets-->
+
+
+			<div class="row" id="copyright" data-layout="default">
+
+				<div class="container">
+
+					<div class="col span_5">
+
+
+						<p>
+							Copyright © 2020 Hilco. All Rights Reserved. </p>
+
+					</div>
+					<!--/span_5-->
+
+					<div class="col span_7 col_last">
+						<ul class="social">
+							<li><a target="_blank" href="https://twitter.com/HilcoAPAC"><i class="fa fa-twitter"></i>
+								</a></li>
+							<li><a target="_blank" href="https://www.facebook.com/hilcoapac/"><i class="fa fa-facebook"></i> </a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/company/hilcoapac"><i class="fa fa-linkedin"></i>
+								</a></li>
+							<li><a target="_blank" href="https://www.instagram.com/hilcoapac/"><i class="fa fa-instagram"></i></a>
+							</li>
+						</ul>
+					</div>
+					<!--/span_7-->
+
+
+				</div>
+				<!--/container-->
+
+			</div>
+			<!--/row-->
+
+
+		</div>
+
+	</div>
+
+</div>
+
+<div id="cookie-law-info-bar" style="display:none">
+	<span>This website uses cookies to personalise content and ads. Close this message if you agree to our <a href="https://www.hilcoapac.com/privacy-policy" id="CONSTANT_OPEN_URL" target="_blank" class="cli-plugin-main-link" style="display: inline-block; color: rgb(255, 255, 255);">Cookie Policy</a>. <a role="button" tabindex="0" data-cli_action="accept" id="cookie_action_close_header" class="small cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display: inline-block; color: rgb(255, 255, 255); background-color: rgb(65, 182, 230);">X</a></span>
+</div>
+
+
+<script>
+
+
+
+	$("#cookie_action_close_header").click(function () {
+
+		$("div#cookie-law-info-bar").attr("style", "display:none");
+		document.cookie = "cookie_policy=accepted";
+
+	});
+
+</script>
+
+<!-- Footer ends --></footer></body>
+</html>

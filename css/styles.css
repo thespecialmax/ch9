@@ -1,0 +1,4035 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  src: url(css_1.css) format('truetype');
+}
+
+
+header#fjwyiiwxzj,
+.catlg,
+.aucinfo {
+  display: none !important;
+}
+
+#adv_search_accounts {
+  display: none;
+}
+
+.fohkfhxkhjzoypg {
+  display: none;
+}
+
+#uigdeajaqxpj .sbSelector {
+  margin-top: 13px;
+}
+
+.auc-top-menu {
+  display: flex;
+  font-family: 'Montserrat';
+  color: #000F4B;
+  text-transform: uppercase;
+  font-size: 14px;
+  border-bottom: 1px solid #E5E5E5;
+  padding-top: 11px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+.auc-top-menu a {
+  color: #A7A7A7;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.auc-top-menu a:hover {
+  text-decoration: underline;
+}
+
+.auc-top-menu path {
+  color: rgba(0, 0, 0, 0.54);
+}
+
+body #zuwxoeujstw {
+  max-width: 1440px;
+  padding-left: 48px;
+  padding-right: 48px;
+}
+
+.sasotszjtvw-confirm-bid .xihsecaiwi input[type=button].orng,
+.sasotszjtvw-confirm-bid .xihsecaiwi input[type=button].drkblu {
+  height: 50px;
+  width: 156px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0C3F8B;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  justify-content: center;
+}
+
+.sasotszjtvw-confirm-buy .xihsecaiwi input[type=button].orng,
+.sasotszjtvw-confirm-buy input[type=button].xihsecaiwi {
+  height: 50px;
+  width: 156px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0C3F8B;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  justify-content: center;
+}
+
+.lot-details .addthis_inline_share_toolbox {
+  display: none;
+  flex-direction: row;
+  width: 280px;
+}
+
+.lot-details .addthis_inline_share_toolbox .at-share-btn-elements {
+  background: #fff;
+  width: 100%;
+  border: 1px solid #999;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.lot-details .warning {
+  color: #ff0000;
+  white-space: normal !important;
+}
+
+.lot-details .force-bid-note .note {
+  margin-top: 10px;
+  display: block;
+}
+
+.lot-details #slider4.rslides li figure a {
+  max-width: unset;
+}
+
+.lot-details #slider4.rslides li figure a img {
+  max-width: unset !important;
+	max-height: unset !important;
+	object-fit: scale-down;
+}
+
+.lot-details .mediaThumbnails {
+  border: 0px;
+}
+
+.lot-details .mediaThumbnails li a img {
+  width: auto;
+  height: auto;
+  max-height: 100px;
+  max-width: 100px;
+}
+
+.lot-details .mediaThumbnails li a {
+  width: 102px;
+  text-align: center;
+  border: 0px;
+}
+
+.lot-details .video-slide .vid-clip-play {
+  top: calc(50% - 50px);
+  left: calc(50% - 50px);
+}
+
+.lot-details .myGallerySliderWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.lot-details .myGallerySliderWrap .prevImageArrow,
+.lot-details .myGallerySliderWrap .nextImageArrow {
+  width: 50px;
+  border: 1px solid #E5E5E5;
+  min-width: auto;
+  border-radius: 4px;
+  background-color: #F2F3F5;
+  margin-top: 13px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.lot-details .myGallerySliderWrap .mediaThumbnails {
+  display: flex;
+  width: 342px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+.lot-details .myGallerySliderWrap .mediaThumbnails .video-thumb-slide .vid-clip-play-thumb {
+  top: calc(50% - 10px);
+  left: calc(50% - 10px);
+}
+
+.lot-details .myGallerySliderWrap .mediaThumbnails .video-thumb-slide .vid-clip-play-thumb img.play-overlay-thumb {
+  position: relative !important;
+  margin: 0px;
+  top: unset;
+  left: unset;
+}
+
+.lot-details .clicktxt {
+  display: none;
+}
+
+.lot-details .pqezjiusxr {
+  display: none;
+}
+
+.lot-details .auc_show {
+  display: flex;
+}
+
+.lot-details .auc_show .auc_slide,
+.lot-details .auc_show .auc_info {
+  float: none;
+}
+
+.lot-details .auc_show .auc_slide {
+  flex-grow: 0;
+  max-width: 33.333333%;
+  flex-basis: 33.333333%;
+  min-width: 396px;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid {
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  float: none;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid .bid-status-other {
+  font-weight: 100;
+  font-size: 14px;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid #currentBid .exratetip {
+  color: #00A314;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid>span {
+  color: #000F4B;
+  margin: 0;
+  font-weight: 600;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  line-height: 22.4px;
+  width: 50%;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid .exratetip,
+.lot-details .auc_show .auc_slide .cur_bid #estimate-timed,
+.lot-details .auc_show .auc_slide .cur_bid>span span:not(.bid-status-other) {
+  color: #000F4B;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  line-height: 22.4px;
+  font-weight: 100;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid .iccyejfoya,
+.lot-details .auc_show .auc_slide .cur_bid #bidHistory {
+  display: none !important;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid #estimate-timed {
+  width: 100%;
+  display: flex;
+}
+
+.lot-details .auc_show .auc_slide .cur_bid #estimate-timed span:not([class]) {
+  width: 50%;
+  display: block;
+  color: #000F4B;
+  font-weight: 600;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  line-height: 22.4px;
+}
+
+.lot-details .auc_show .auc_info {
+  flex-grow: 0;
+  max-width: 66.666667%;
+  flex-basis: 66.666667%;
+  background: none;
+  border: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.lot-details .auc_show .auc_info .auc_info_bid,
+.lot-details .auc_show .auc_info .navigate {
+  background: none;
+}
+
+.lot-details .auc_show .auc_info .navigate {
+  border-bottom: 0px;
+  margin-top: 5px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper {
+  border: 1px solid #E5E5E5;
+  padding: 1rem 0;
+  margin-top: 32px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable {
+  background: url(../images/center_line_bg.png) repeat-y;
+  background-position: center;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 4px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div {
+  width: calc(50% - 40px);
+  margin-left: 20px;
+  margin-right: 20px;
+  border-top: 1px solid #E5E5E5;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div:first-child,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div:nth-child(2) {
+  border-top: 0px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myStartTime,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myGST,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEndTime,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myBuyerPremium,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .mySaleLocation,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myCondition,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEnquires {
+  display: flex;
+  padding: 16px 16px;
+  position: relative;
+  padding-bottom: 16px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myStartTime .myIcon,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myGST .myIcon,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEndTime .myIcon,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myBuyerPremium .myIcon,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .mySaleLocation .myIcon,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myCondition .myIcon,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEnquires .myIcon {
+  margin-right: 16px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myStartTime .myIcon svg,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myGST .myIcon svg,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEndTime .myIcon svg,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myBuyerPremium .myIcon svg,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .mySaleLocation .myIcon svg,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myCondition .myIcon svg,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEnquires .myIcon svg {
+  fill: #00AEEF;
+  width: 14px;
+  height: 14px;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myStartTime .myCustomTitle,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myGST .myCustomTitle,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEndTime .myCustomTitle,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myBuyerPremium .myCustomTitle,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .mySaleLocation .myCustomTitle,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myCondition .myCustomTitle,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEnquires .myCustomTitle {
+  color: #1456A3;
+  font-size: 14px;
+  margin-top: -5px;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myStartTime .myCustomValue,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myGST .myCustomValue,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEndTime .myCustomValue,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myBuyerPremium .myCustomValue,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .mySaleLocation .myCustomValue,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myCondition .myCustomValue,
+.lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable .myEnquires .myCustomValue {
+  color: #000F4B;
+  font-size: 14px;
+  margin-top: 2px;
+  line-height: 17px;
+  font-weight: 600;
+}
+
+.lot-details .auc_show>.yudhfltacl {
+  display: none;
+}
+
+.lot-details .myLotNumber .myLotNumberLabel {
+  font-family: 'Montserrat';
+  letter-spacing: 0.12852px;
+  line-height: 19.2px;
+  color: #000F4B;
+}
+
+.lot-details .myLotNumber .myLotNumberValue {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  line-height: 19.2px;
+  color: #000F4B;
+}
+
+.lot-details .myLotTitle {
+  font-size: 24px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  line-height: 36px;
+  margin-bottom: 12px;
+  color: #0C3F8B;
+}
+
+.lot-details .threeIconsWrapper {
+  display: flex;
+}
+
+.lot-details .secondIcon.iconTop {
+  display: none;
+}
+
+.lot-details .iconTop {
+  color: #d2d2d2;
+  width: 41px;
+  height: 41px;
+  min-width: auto;
+  background-color: #fbfbfb;
+  border-width: 1px;
+  border-style: solid;
+  border-image: initial;
+  padding: 10px;
+  border-color: #e5e5e5;
+  box-shadow: none;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  line-height: 1.75;
+  border-radius: 32px;
+  letter-spacing: 0.02857em;
+  text-transform: none;
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.lot-details .iconTop:hover {
+  color: #fdb814;
+  background-color: #fbfbfb;
+}
+
+.lot-details .iconTop .dpohzsyycvxgav {
+  font-size: 24px;
+  width: 19px;
+  height: 19px;
+}
+
+.lot-details #watchlist_button #removeFromWatchlist,
+.lot-details #watchlist_button #addToWatchlist {
+  font-size: 0px;
+  box-shadow: none;
+  border: 0px;
+  background: none;
+  padding: 0px;
+  width: unset;
+  float: none;
+  line-height: 0px;
+  letter-spacing: normal;
+}
+
+.lot-details #watchlist_button #removeFromWatchlist .dpohzsyycvxgav {
+  color: #fdb814;
+}
+
+.lot-details #watchlist_button #removeFromWatchlist .dpohzsyycvxgav:hover {
+  color: #d2d2d2;
+}
+
+.lot-details #watchlist_button #addToWatchlist .dpohzsyycvxgav {
+  color: #d2d2d2;
+}
+
+.lot-details #watchlist_button #addToWatchlist .dpohzsyycvxgav:hover {
+  color: #fdb814;
+}
+
+.lot-details .aucInfo {
+  display: flex;
+  margin-top: 10px;
+  font-weight: 600;
+}
+
+.lot-details .aucInfo .aucInfoWrapper,
+.lot-details .aucInfo .catalogWrapper,
+.lot-details .aucInfo .similarItemsWrapper {
+  margin-right: 25px;
+}
+
+.lot-details .aucInfo .aucInfoWrapperLink,
+.lot-details .aucInfo .catalogWrapperLink,
+.lot-details .aucInfo .similarItemsWrapperLink {
+  display: flex;
+  color: #1456a3;
+  font-size: 14px;
+}
+
+.lot-details .aucInfo .aucInfoIcon,
+.lot-details .aucInfo .catalogIcon,
+.lot-details .aucInfo .similarItemsIcon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.lot-details .aucInfo .aucInfoIcon svg,
+.lot-details .aucInfo .catalogIcon svg,
+.lot-details .aucInfo .similarItemsIcon svg {
+  fill: #00aeef;
+  margin: 0px 10px 0px 0px;
+}
+
+.lot-details .myTimerViewsHist {
+  display: flex;
+  margin-top: 40px;
+  font-weight: 600;
+}
+
+.lot-details .myTimerViewsHist .myTimerWrapper {
+  border-right: 1px solid #E5E5E5;
+  margin-right: 30px;
+  padding-right: 30px;
+  display: flex;
+}
+
+.lot-details .myTimerViewsHist .myTimerWrapper .myTimerIcon svg {
+  fill: #00a314;
+  margin: 0px 10px 0px 0px;
+}
+
+.lot-details .myTimerViewsHist .myTimerWrapper .myTimerText {
+  width: 130px;
+}
+
+.lot-details .myTimerViewsHist .myTimerWrapper .myTimerText .cur_time.quiujwtpgu {
+  float: none;
+  color: #000f4b;
+  font-size: 14px;
+}
+
+.lot-details .myTimerViewsHist .myTimerWrapper .myTimerText .cur_time.quiujwtpgu .in-progress:first-child {
+  display: none;
+}
+
+.lot-details .myTimerViewsHist .myViewsWrapper {
+  display: flex;
+  border-right: 1px solid #E5E5E5;
+  margin-right: 30px;
+  padding-right: 30px;
+}
+
+.lot-details .myTimerViewsHist .myViewsWrapper .myViewsText {
+  color: #777777;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.lot-details .myTimerViewsHist .myHistoryWrapper {
+  display: flex;
+}
+
+.lot-details .myTimerViewsHist .myHistoryWrapper .myHistoryText {
+  color: #777777;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.lot-details .myTimerViewsHist .myViewsIcon,
+.lot-details .myTimerViewsHist .myTimerIcon,
+.lot-details .myTimerViewsHist .myHistoryIcon {
+  margin-right: 10px;
+}
+
+.lot-details .myCurrentBidWrapper,
+.lot-details .myBuyNowAmountWrapper {
+	/* margin-top: 48px; */
+	margin-top: 24px;
+}
+
+.lot-details .myCurrentBidWrapper .myCurrentBid,
+.lot-details .myCurrentBidWrapper .buyNowAmount,
+.lot-details .myBuyNowAmountWrapper .myCurrentBid,
+.lot-details .myBuyNowAmountWrapper .buyNowAmount {
+  color: #0C3F8B;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 5px;
+  font-family: 'Montserrat';
+  font-size: 30px !important;
+}
+
+.lot-details .auc_info_bid {
+  padding: 0px;
+}
+
+.lot-details .auc_info_bid .bidfrm {
+  width: 100%;
+  border: 1px solid #E5E5E5;
+  padding-bottom: 16px;
+  padding-left: 20.8px;
+  padding-right: 20.8px;
+  padding-top: 16px;
+  border-radius: 4px;
+  background-color: #FBFBFB;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset.buying .xihsecaiwi input[type=button].orng,
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset.buying .xihsecaiwi span.orng.buy-now {
+  height: 50px;
+  width: auto;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  align-items: center;
+  justify-content: center;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset.buying .xihsecaiwi span.orng.buy-now {
+  background-color: #cd1c26;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) .or-timed.or-offer span {
+  text-transform: none;
+  color: #000000;
+  height: 14px;
+  font-size: 11px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 14px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  min-height: unset;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul {
+  width: 100%;
+  max-width: unset;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child {
+  width: calc(100% - 176px);
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child .lbl-offer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  border: 1px solid #ececec;
+  background: #ffffff;
+  padding-left: 1rem;
+  border-top-left-radius: 19px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  height: 50px;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child .lbl-offer .oaltcfortoieqa {
+  flex-grow: 1;
+  margin-top: 5px;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child .lbl-offer .oaltcfortoieqa input[type=text] {
+  height: 40px;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child input[type=text] {
+  box-shadow: none;
+  border: 0px;
+  height: 48px;
+  width: 100% !important;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li .xihsecaiwi {
+  padding-left: 0px !important;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li .xihsecaiwi .make-offer {
+  height: 50px;
+  width: 176px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0 100px 100px 0;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  padding-left: 44px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+}
+
+/* .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(4) .zfycdckijiiesgh {
+        display: none; } */
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) {
+  float: none;
+  width: 100%;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa {
+  margin-top: 10px;
+  display: flex;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa .xihsecaiwi {
+  width: 50%;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa .xihsecaiwi .sdryvhaqesqe input[type=button].orng,
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa .xihsecaiwi .sdryvhaqesqe input[type=button].drkblu {
+  background-color: #0C3F8B;
+  border-radius: 30px;
+  width: 200px;
+  height: 50px;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .rhqycrfdxqwu .zfycdckijiiesgh {
+  color: #000;
+  font-size: 14px;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.nextbid ul li:first-child {
+  display: none;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.nextbid .xihsecaiwi.bidding-next input[type=button].orng {
+  height: 50px;
+  width: 176px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  align-items: center;
+  justify-content: center;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid {
+  padding-bottom: 20px;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul {
+  width: 100%;
+  max-width: unset;
+  display: flex;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi {
+  margin-top: 14px;
+  padding-left: 0px;
+  position: relative;
+  cursor: pointer;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav {
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  fill: #ffffff;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid,
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid {
+  height: 50px;
+  width: 176px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0 100px 100px 0;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  padding-left: 44px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  margin-top: 0px;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid.not-logged-in,
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid.not-logged-in,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid.not-logged-in,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid.not-logged-in {
+  border-radius: 100px !important;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li input[type=text],
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li input[type=text] {
+  box-shadow: none;
+  border: 0px;
+  height: 48px;
+  width: 100% !important;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li:first-child,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li:first-child {
+  width: 100%;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li label.mxbid,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li label.mxbid {
+  text-transform: none;
+  color: #000000;
+  height: 14px;
+  font-size: 11px !important;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 14px;
+  letter-spacing: 0.5px;
+  text-align: left;
+  min-height: unset;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid .mxbid-input,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid .mxbid-input {
+  flex: 1;
+  border: 1px solid #ececec;
+  background: #ffffff;
+  padding-left: 1rem;
+  border-top-left-radius: 19px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  height: 50px;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid .mxbid-input .maxbid-curr,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid .mxbid-input .maxbid-curr {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  font-weight: 100;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid .mxbid-input .oaltcfortoieqa,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid .mxbid-input .oaltcfortoieqa {
+  flex: 1;
+}
+
+.lot-details .auc_info_bid .bidfrm fieldset.placebid .mxbid-input .youre-winning,
+.lot-details .auc_info_bid .bidfrm fieldset.forcebid .mxbid-input .youre-winning {
+  display: none;
+}
+
+.lot-details .auc_info_bid .bidfrm .maxbid>label:not(.mxbid) {
+  display: none;
+}
+
+.lot-details .auc_info_bid .bidfrm .xihsecaiwi input.orng.place-bid {
+  margin-top: 0px;
+}
+
+.lot-details .auc_info_bid .bidfrm .bidding-fieldset.buying .lbl-buynow-price {
+  display: none;
+}
+
+.lot-details .description-info-content .custom-field {
+  display: none;
+}
+
+.lot-details .ask,
+.lot-details .tell-friend {
+  display: none;
+}
+
+.lot-details ul#nav>li>section {
+  border: 0px;
+}
+
+.lot-details ul#nav>li>a {
+  color: #000F4B;
+  font-size: 14px;
+  font-weight: 600;
+  width: 100%;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 0px;
+  background: none;
+  text-transform: uppercase;
+}
+
+.lot-details ul#nav>li>a.active {
+  border-bottom: 1px solid #000F4B;
+}
+
+.lot-details .ins_cnt,
+.lot-details .ins_cnt p {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  line-height: 22.4px;
+  font-size: 14px;
+  color: #000F4B;
+}
+
+.lot-details .ins_cnt {
+  height: auto;
+}
+
+.lot-details .list_carousel h3.dk_title {
+  color: #000F4B;
+  font-weight: 600;
+  font-size: 24px;
+  font-family: 'Montserrat';
+  line-height: 36px;
+  margin-bottom: 0.75rem;
+  border: 0px;
+}
+
+.lot-details .lot-catalog-list {
+  border: 0px;
+}
+
+.lot-details #pnlOtherLots_ctl a.lot {
+  border: 0px;
+}
+
+.lot-details .lot-list-images .other-lot-img-wrap {
+  height: auto;
+  max-height: unset;
+}
+
+.lot-details .lot-list-images .other-lot-img-wrap figure.other-lot-img-container {
+  height: auto;
+  max-height: unset;
+}
+
+.lot-details .lot-list-images .other-lot-img-wrap figure.other-lot-img-container img.other-lots-image {
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 180px;
+}
+
+.lot-details .lot-list-images a.lot {
+  height: auto;
+  width: auto;
+  height: auto;
+  width: 300px;
+  max-width: unset;
+}
+
+.lot-details .lot-list-controls-left,
+.lot-details .lot-list-controls-right {
+  display: none;
+}
+
+.lot-details #other-lots-carousel {
+  border-top: 1px solid #e5e5e5;
+  padding-top: 32px;
+}
+
+.lot-details .lot-catalog-list .lot-list a .lot-description-timed,
+.lot-details #pnlOtherLots_ctl a.lot {
+  color: #0C3F8B;
+  font-size: 16px !important;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  line-height: 24px !important;
+  margin-bottom: 8px;
+}
+
+.lot-details #pnlOtherLots a:nth-child(5) {
+  display: none;
+}
+
+.lot-details .myPlantHazardReports {
+  margin-top: 5px;
+}
+
+.lot-details .myPlantHazardReports .myPlantHazardReportsLink {
+  display: flex;
+  width: 100%;
+  border: 1px solid #E5E5E5;
+  height: 50px;
+  padding: 0 20px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #F8F8F8;
+}
+
+.lot-details .myPlantHazardReports .myPlantHazardReportsLink .myPlantHazardReportsText {
+  flex: 1;
+  color: #777777;
+  height: 100%;
+  display: flex;
+  font-size: 14px;
+  align-items: center;
+}
+
+.lot-details .myPlantHazardReports .myPlantHazardReportsLink .myPlantHazardReportsIcon .dpohzsyycvxgav {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+  color: rgba(0, 0, 0, 0.4);
+  border: 0px;
+  background-color: transparent;
+  padding: 0px;
+}
+
+.lot-details.lot-details-index .phgjgtcrqgt div.navigate div.similar-item {
+  display: none;
+}
+
+.sasotszjtvw.fhqtafqjvzcez div.phixtkzjeqp div.hkqlchadzvtjfq b {
+  display: none;
+}
+
+.sasotszjtvw.fhqtafqjvzcez div.srctijjhwtqqqv {
+
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.sasotszjtvw.fhqtafqjvzcez .mySalesTypeWrapper div.mySalesNameText span{
+	color: #000;
+}
+
+.lot-details.lot-details-index .auc_info div.custom-field-lcf-rrp{
+	margin-top: 15px;
+	color: #0C3F8B;
+	font-size: 26px;
+	font-family: Montserrat, sans-serif;
+	/* font-weight: 700; */
+}
+
+.lot-details.lot-details-index div.winner-msg	{
+	font-size: 24px;
+}
+
+.lot-details.lot-details-index span.myLotNumberLabel{
+	display: none;
+}
+
+.srctijjhwtqqqv:after {
+  content: unset;
+}
+
+.sasotszjtvw.fhqtafqjvzcez div#grid_options span {
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.sasotszjtvw.fhqtafqjvzcez div.qtdiwgdzgaorfpj.zorzgfzgpp div.exoxsytjuuqs label {
+  margin-left: 10px;
+}
+
+.sasotszjtvw.fhqtafqjvzcez .hasCustomSelect{
+	width: 50px !important;
+	height: 22px !important;
+}
+
+.qtdiwgdzgaorfpj > div.exoxsytjuuqs span.gujairjpxvccu{
+	color:#000000;
+	font-family: Montserrat, sans-serif;
+}
+
+.sasotszjtvw.fhqtafqjvzcez div.exoxsytjuuqs.xvykyxlvwkltppj{
+	display:flex;
+	align-items: center;
+}
+
+.sasotszjtvw.fhqtafqjvzcez label#bottom_viewwing_items{
+	margin-left: 10px;
+}
+
+.ytfckkueleozv.ytfckkueleozv-index div.pvgjlzxlxlr.open_form div.hkqlchadzvtjfq,
+.cycerdeizu span > a,
+.phixtkzjeqp > div.hkqlchadzvtjfq a,
+.cycerdeizu span,
+.ytfckkueleozv.ytfckkueleozv-index div#items_page_and_page div.hkqlchadzvtjfq,
+.phixtkzjeqp > div.hkqlchadzvtjfq span:not(.customSelect),
+div.zorzgfzgpp .phixtkzjeqp .cycerdeizu span,
+.sasotszjtvw.fhqtafqjvzcez .exoxsytjuuqs label{
+	color:#000000;	
+	font-size: 13px;
+	font-weight: 600;
+}
+
+
+/*  */
+
+body.fhqtafqjvzcez .force-bid-warning,
+body.fhqtafqjvzcez .max-bid-warning,
+body.ytfckkueleozv .force-bid-warning,
+body.ytfckkueleozv .max-bid-warning,
+body.my-items .force-bid-warning,
+body.my-items .max-bid-warning {
+  color: #ff0000;
+}
+
+body.fhqtafqjvzcez .egzyzwxzoozq,
+body.ytfckkueleozv .egzyzwxzoozq,
+body.my-items .egzyzwxzoozq {
+  display: none;
+}
+
+.register.register-revise-billing .fsylkdsxkcjvwc,
+body.fhqtafqjvzcez .fsylkdsxkcjvwc,
+body.ytfckkueleozv .fsylkdsxkcjvwc,
+body.my-items .fsylkdsxkcjvwc {
+  max-width: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.register.register-revise-billing .opciqoviuhq,
+body.fhqtafqjvzcez .opciqoviuhq,
+body.ytfckkueleozv .opciqoviuhq,
+body.my-items .opciqoviuhq {
+  color: #1456A3;
+  font-size: 16px;
+  font-family: Montserrat;
+  font-weight: 600;
+}
+
+.register.register-revise-billing .quwzslsgtddac{
+	line-height: 1.6;
+	text-align: left;
+}
+
+.register.register-revise-billing .quwzslsgtddac,
+body.fhqtafqjvzcez .quwzslsgtddac,
+body.ytfckkueleozv .quwzslsgtddac,
+body.my-items .quwzslsgtddac {
+	font-size: 16px;
+	font-family: Montserrat;
+	
+}
+
+body.fhqtafqjvzcez .jkawavugfdcizzl,
+body.ytfckkueleozv .jkawavugfdcizzl,
+body.my-items .jkawavugfdcizzl {
+  display: none;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .sbHolder,
+body.ytfckkueleozv .jhdtghjakudr .sbHolder,
+body.my-items .jhdtghjakudr .sbHolder {
+  background: #fff;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .sbHolder:hover,
+body.ytfckkueleozv .jhdtghjakudr .sbHolder:hover,
+body.my-items .jhdtghjakudr .sbHolder:hover {
+  box-shadow: none;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .sbHolder:focus,
+body.ytfckkueleozv .jhdtghjakudr .sbHolder:focus,
+body.my-items .jhdtghjakudr .sbHolder:focus {
+  border-color: #0C3F8B;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .sbSelector,
+body.ytfckkueleozv .jhdtghjakudr .sbSelector,
+body.my-items .jhdtghjakudr .sbSelector {
+  width: auto;
+  margin-top: 14px;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .iyxjquqtctq,
+body.ytfckkueleozv .jhdtghjakudr .iyxjquqtctq,
+body.my-items .jhdtghjakudr .iyxjquqtctq {
+  border: 0px;
+  background: none;
+  height: auto;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .iyxjquqtctq:hover,
+body.fhqtafqjvzcez .jhdtghjakudr .iyxjquqtctq:focus,
+body.fhqtafqjvzcez .jhdtghjakudr .iyxjquqtctq:active,
+body.ytfckkueleozv .jhdtghjakudr .iyxjquqtctq:hover,
+body.ytfckkueleozv .jhdtghjakudr .iyxjquqtctq:focus,
+body.ytfckkueleozv .jhdtghjakudr .iyxjquqtctq:active,
+body.my-items .jhdtghjakudr .iyxjquqtctq:hover,
+body.my-items .jhdtghjakudr .iyxjquqtctq:focus,
+body.my-items .jhdtghjakudr .iyxjquqtctq:active {
+  box-shadow: none;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr input[type='text'],
+body.ytfckkueleozv .jhdtghjakudr input[type='text'],
+body.my-items .jhdtghjakudr input[type='text'] {
+  color: #000;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  outline: none;
+  padding: 20px;
+  font-size: 0.875rem;
+  margin-top: 12px;
+  border-radius: 4px;
+  height: auto;
+  line-height: 17px;
+  background: #fff;
+  float: none;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr input[type='text']:hover,
+body.ytfckkueleozv .jhdtghjakudr input[type='text']:hover,
+body.my-items .jhdtghjakudr input[type='text']:hover {
+  box-shadow: none;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr input[type='text']:focus,
+body.ytfckkueleozv .jhdtghjakudr input[type='text']:focus,
+body.my-items .jhdtghjakudr input[type='text']:focus {
+  border-color: #0C3F8B;
+}
+
+body.fhqtafqjvzcez .jhdtghjakudr .xihsecaiwi input[type=button].blu,
+body.ytfckkueleozv .jhdtghjakudr .xihsecaiwi input[type=button].blu,
+body.my-items .jhdtghjakudr .xihsecaiwi input[type=button].blu {
+  color: #fff;
+  background-color: #0C3F8B;
+	font-family: Montserrat, sans-serif;
+	
+  font-weight: 700;
+  line-height: 1.75;
+  border-radius: 32px;
+  padding: 14px 42px;
+}
+
+body.fhqtafqjvzcez .egzyzwxzoozq,
+body.ytfckkueleozv .egzyzwxzoozq,
+body.my-items .egzyzwxzoozq {
+  top: 65px;
+}
+
+body.fhqtafqjvzcez .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input+label,
+body.ytfckkueleozv .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input+label,
+body.my-items .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input+label {
+  background: url(../images/checkbox-unselected.png) no-repeat 0px 4px;
+  font-family: 'Montserrat';
+  font-synthesis: 14px !important;
+  color: #000;
+}
+
+body.fhqtafqjvzcez .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input[type=checkbox]:active:checked+label,
+body.fhqtafqjvzcez .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input[type=checkbox]:checked+label,
+body.ytfckkueleozv .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input[type=checkbox]:active:checked+label,
+body.ytfckkueleozv .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input[type=checkbox]:checked+label,
+body.my-items .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input[type=checkbox]:active:checked+label,
+body.my-items .egzyzwxzoozq .tttfljuyoltotwt div.dxoavcziydrvry:not(#foo)>input[type=checkbox]:checked+label {
+  background: url(../images/checkbox-selected.png) no-repeat 0px 5px;
+}
+
+body.fhqtafqjvzcez .pqezjiusxr.ohzskpjgqh .ehwfxsxayuld,
+body.ytfckkueleozv .pqezjiusxr.ohzskpjgqh .ehwfxsxayuld,
+body.my-items .pqezjiusxr.ohzskpjgqh .ehwfxsxayuld {
+  border: 0px;
+}
+
+.register.register-revise-billing .pqezjiusxr.ohzskpjgqh .hxlcwgzettk,
+body.fhqtafqjvzcez .pqezjiusxr.ohzskpjgqh .hxlcwgzettk,
+body.ytfckkueleozv .pqezjiusxr.ohzskpjgqh .hxlcwgzettk,
+body.my-items .pqezjiusxr.ohzskpjgqh .hxlcwgzettk {
+  color: #000F4B;
+  border: 1px solid #e5e5e5;
+  padding: 0;
+  font-size: 14px;
+  background-color: #FBFBFB;
+	padding: 16px;
+	font-family: Montserrat;
+}
+
+body.fhqtafqjvzcez .pqezjiusxr.ohzskpjgqh .wjsyuoqiayut.ehftupktyjdxig.hzaglweuylr,
+body.ytfckkueleozv .pqezjiusxr.ohzskpjgqh .wjsyuoqiayut.ehftupktyjdxig.hzaglweuylr,
+body.my-items .pqezjiusxr.ohzskpjgqh .wjsyuoqiayut.ehftupktyjdxig.hzaglweuylr {
+  display: block;
+}
+
+body.fhqtafqjvzcez .pqezjiusxr.ohzskpjgqh .wjsyuoqiayut.ehftupktyjdxig.hzaglweuylr .ehfrdyrdszcqy,
+body.ytfckkueleozv .pqezjiusxr.ohzskpjgqh .wjsyuoqiayut.ehftupktyjdxig.hzaglweuylr .ehfrdyrdszcqy,
+body.my-items .pqezjiusxr.ohzskpjgqh .wjsyuoqiayut.ehftupktyjdxig.hzaglweuylr .ehfrdyrdszcqy {
+  display: none !important;
+}
+
+body.fhqtafqjvzcez .pqezjiusxr.ohzskpjgqh .fkihwsxaqkiicj.eloduywrauvr,
+body.ytfckkueleozv .pqezjiusxr.ohzskpjgqh .fkihwsxaqkiicj.eloduywrauvr,
+body.my-items .pqezjiusxr.ohzskpjgqh .fkihwsxaqkiicj.eloduywrauvr {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+body.fhqtafqjvzcez .pqezjiusxr.ohzskpjgqh .fkihwsxaqkiicj.eloduywrauvr img,
+body.ytfckkueleozv .pqezjiusxr.ohzskpjgqh .fkihwsxaqkiicj.eloduywrauvr img,
+body.my-items .pqezjiusxr.ohzskpjgqh .fkihwsxaqkiicj.eloduywrauvr img {
+  width: auto;
+  height: auto;
+  border-radius: 5px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+body.fhqtafqjvzcez .to-watchlist,
+body.ytfckkueleozv .to-watchlist,
+body.my-items .to-watchlist {
+  display: none;
+}
+
+body.fhqtafqjvzcez .srctijjhwtqqqv a.com,
+body.ytfckkueleozv .srctijjhwtqqqv a.com,
+body.my-items .srctijjhwtqqqv a.com {
+  display: none;
+}
+
+body.fhqtafqjvzcez .myTimerWrapper,
+body.ytfckkueleozv .myTimerWrapper,
+body.my-items .myTimerWrapper {
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  display: none;
+}
+
+
+body.fhqtafqjvzcez .mySalesTypeWrapper,
+body.ytfckkueleozv .mySalesTypeWrapper,
+body.my-items .mySalesTypeWrapper {
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+
+}
+
+
+span#sales_type_title {
+  color: black;
+  font-weight: 700;
+
+}
+
+body.fhqtafqjvzcez .myTimerWrapper .myTimerIcon svg,
+body.ytfckkueleozv .myTimerWrapper .myTimerIcon svg,
+body.my-items .myTimerWrapper .myTimerIcon svg {
+  fill: #00a314 !important;
+  margin: 0px 10px 0px 0px;
+}
+
+body.fhqtafqjvzcez .myTimerWrapper .myTimerText,
+body.ytfckkueleozv .myTimerWrapper .myTimerText,
+body.my-items .myTimerWrapper .myTimerText {
+  font-weight: 400;
+  margin: 0px;
+  font-size: 0.875rem;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  color: #000f4b;
+}
+
+.register.register-revise-billing .xqvczyauveqh,
+body.fhqtafqjvzcez .xqvczyauveqh,
+body.ytfckkueleozv .xqvczyauveqh,
+body.my-items .xqvczyauveqh {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+.register.register-revise-billing .ihxdchukotwk,
+body.fhqtafqjvzcez .xqvczyauveqh .ihxdchukotwk,
+body.ytfckkueleozv .xqvczyauveqh .ihxdchukotwk,
+body.my-items .xqvczyauveqh .ihxdchukotwk {
+  font-weight: 600;
+  margin-right: 6px;
+  font-family: 'Montserrat';
+  font-size: 12px;
+  margin-right: 6px;
+  color: #000;
+  line-height: 19.2px;
+}
+
+.register.register-revise-billing .azvucykgqrdvdg,
+body.fhqtafqjvzcez .xqvczyauveqh .azvucykgqrdvdg,
+body.ytfckkueleozv .xqvczyauveqh .azvucykgqrdvdg,
+body.my-items .xqvczyauveqh .azvucykgqrdvdg {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 19.2px;
+  color: #000;
+}
+
+.register.register-revise-billing .phaephjyzyzigd,
+body.fhqtafqjvzcez .phaephjyzyzigd,
+body.ytfckkueleozv .phaephjyzyzigd,
+body.my-items .phaephjyzyzigd {
+  color: #0C3F8B;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 48px;
+  margin-bottom: 24px;
+}
+
+body.fhqtafqjvzcez .dyoqfpuzrlsggsd,
+body.ytfckkueleozv .dyoqfpuzrlsggsd,
+body.my-items .dyoqfpuzrlsggsd {
+  padding-top: 0px;
+}
+
+body.fhqtafqjvzcez .srctijjhwtqqqv,
+body.ytfckkueleozv .srctijjhwtqqqv,
+body.my-items .srctijjhwtqqqv {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+body.fhqtafqjvzcez .srctijjhwtqqqv>span,
+body.ytfckkueleozv .srctijjhwtqqqv>span,
+body.my-items .srctijjhwtqqqv>span {
+  display: none;
+}
+
+body.fhqtafqjvzcez .srctijjhwtqqqv a,
+body.ytfckkueleozv .srctijjhwtqqqv a,
+body.my-items .srctijjhwtqqqv a {
+  background: none;
+  width: auto;
+  height: auto;
+}
+
+body.fhqtafqjvzcez .gridView,
+body.fhqtafqjvzcez .listView,
+body.ytfckkueleozv .gridView,
+body.ytfckkueleozv .listView,
+body.my-items .gridView,
+body.my-items .listView {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #A7A7A7;
+  margin-right: 10px;
+}
+
+body.fhqtafqjvzcez .gridView svg,
+body.fhqtafqjvzcez .listView svg,
+body.ytfckkueleozv .gridView svg,
+body.ytfckkueleozv .listView svg,
+body.my-items .gridView svg,
+body.my-items .listView svg {
+  width: 24px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+body.fhqtafqjvzcez .auc-top-menu,
+body.ytfckkueleozv .auc-top-menu,
+body.my-items .auc-top-menu {
+  padding-top: 0px;
+}
+
+body.fhqtafqjvzcez .hewrwvouchh,
+body.ytfckkueleozv .hewrwvouchh,
+body.my-items .hewrwvouchh {
+  margin-top: 10px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy,
+body.ytfckkueleozv .gjkqxsepjrhy,
+body.my-items .gjkqxsepjrhy {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy>li,
+body.ytfckkueleozv .gjkqxsepjrhy>li,
+body.my-items .gjkqxsepjrhy>li {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .pfdofwzxwew,
+body.ytfckkueleozv .gjkqxsepjrhy .pfdofwzxwew,
+body.my-items .gjkqxsepjrhy .pfdofwzxwew {
+  background: none;
+  border: 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .icofvirykt,
+body.ytfckkueleozv .gjkqxsepjrhy .icofvirykt,
+body.my-items .gjkqxsepjrhy .icofvirykt {
+  width: 100%;
+  display: block;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr {
+  width: calc(65% - 24px);
+  margin-left: 24px;
+  border-right: 1px solid #e5e5e5;
+  position: relative;
+  height: 100%;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve {
+  display: flex;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myReserveNotMet,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myReserveNotMet,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myReserveNotMet {
+  margin-left: 20px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myReserveNotMet .reserve-not-met,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myReserveNotMet .reserve-not-met,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myReserveNotMet .reserve-not-met {
+  color: #de1d0f;
+  width: auto;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  line-height: 1;
+  justify-content: flex-start;
+  background-color: #f8f8f8;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e5e5e5;
+  border-image: initial;
+  margin: 0px;
+  padding: 10px;
+  flex-flow: row nowrap;
+  border-radius: 4px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper a,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper a,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper a {
+  color: #1456A3;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper .myHistoryBidIcon,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper .myHistoryBidIcon,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper .myHistoryBidIcon {
+  margin-right: 5px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper .myHistoryBidIcon .dpohzsyycvxgav,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper .myHistoryBidIcon .dpohzsyycvxgav,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .myHistoryReserve .myHistoryBidWrapper .myHistoryBidIcon .dpohzsyycvxgav {
+  fill: #1456A3;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .bd-chk,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .bd-chk,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .bd-chk {
+  color: #d2d2d2;
+  width: 41px;
+  height: 41px;
+  min-width: auto;
+  background-color: #fbfbfb;
+  border-width: 1px;
+  border-style: solid;
+  border-image: initial;
+  padding: 10px;
+  border-color: #e5e5e5;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  line-height: 1.75;
+  border-radius: 32px;
+  cursor: pointer;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .bd-chk *,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .bd-chk *,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr .bd-chk * {
+  cursor: pointer;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>input[type=checkbox]:checked+label,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>span>input[type=checkbox]:checked+label,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>input[type=checkbox]:checked+label,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>span>input[type=checkbox]:checked+label,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>input[type=checkbox]:checked+label,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>span>input[type=checkbox]:checked+label {
+  background: url(../images/star_watchlist_on.png) no-repeat;
+  width: 15px;
+  padding-right: 0px;
+  margin-top: 2px;
+  margin-left: 3px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>input+label,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>span>input+label,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>div.qradiobutton-ctl>span>input+label,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>input+label,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>span>input+label,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>div.qradiobutton-ctl>span>input+label,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>input+label,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>span>input+label,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr div.rotwkraytgwvsk:not(#foo)>div.qradiobutton-ctl>span>input+label {
+  background: url(../images/star_watchlist_off.png) no-repeat;
+  width: 15px;
+  padding-right: 0px;
+  margin-top: 2px;
+  margin-left: 3px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd {
+  width: 35%;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section {
+  margin-bottom: 20px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section .ldevtleekuw input[type=button],
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section .ldevtleekuw input[type=button],
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section .ldevtleekuw input[type=button] {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  justify-content: center;
+  align-items: center;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx div:not([class]),
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx div:not([class]),
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx div:not([class]) {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw a.orng,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button],
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw a.orng,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button],
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw a.orng,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button] {
+  color: white;
+  background-color: #cd1c26;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+  min-width: 64px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  line-height: 24.5px;
+  border-radius: 32px;
+  letter-spacing: 0.39998px;
+  text-transform: none;
+  width: 175px;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  align-content: center;
+  line-height: 36px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw a.orng:hover,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button]:hover,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw a.orng:hover,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button]:hover,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw a.orng:hover,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button]:hover {
+  background-color: #e0e0e0;
+  box-shadow: 0px 5px 5px -3px rgba(0, 0, 0, 0.2), 0px 8px 10px 1px rgba(0, 0, 0, 0.14), 0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  color: white;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj {
+  width: auto;
+  flex: 1;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .oaltcfortoieqa,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .oaltcfortoieqa,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .oaltcfortoieqa {
+  width: 100%;
+  display: flex;
+  border-top-left-radius: 19px;
+  border-bottom-left-radius: 20px;
+  border: 1px solid #ececec;
+  height: 50px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .oaltcfortoieqa .myDollarSign,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .oaltcfortoieqa .myDollarSign,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .oaltcfortoieqa .myDollarSign {
+  font-size: 14px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  display: flex;
+  padding-left: 10px;
+  color: #000;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid {
+  background: #ffffff;
+  padding-left: 1rem;
+  width: 90%;
+  height: 48px;
+  border: 0px;
+  font-size: 16px;
+  z-index: 9999999;
+  -webkit-user-modify: read-write;
+  -moz-user-modify: read-write;
+  user-modify: read-write;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid:focus,
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid:focus,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid:focus,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid:focus,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid:focus,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid:focus {
+  outline: none;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt {
+  width: auto;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi {
+  padding-left: 0px;
+  position: relative;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe {
+  position: relative;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav,
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav,
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav {
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  fill: #ffffff;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button] {
+  height: 50px;
+  width: 186px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0 100px 100px 0;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  padding-left: 44px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section,
+body.ytfckkueleozv .gjkqxsepjrhy li>section,
+body.my-items .gjkqxsepjrhy li>section {
+  background: none;
+  border: 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section>.cqxxvvowtqjowf>figure a img,
+body.ytfckkueleozv .gjkqxsepjrhy li>section>.cqxxvvowtqjowf>figure a img,
+body.my-items .gjkqxsepjrhy li>section>.cqxxvvowtqjowf>figure a img {
+  max-width: 300px;
+  max-height: 300px;
+  padding: 0px;
+  border: 0px;
+  width: auto;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu,
+body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu,
+body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu {
+  margin-top: 0px;
+  float: none;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu i,
+body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu i,
+body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu i {
+  padding-top: 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2,
+body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2,
+body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 {
+  margin-bottom: 0px;
+  text-align: left;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a,
+body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a,
+body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a {
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 72px;
+  line-height: 28.8px;
+  color: #0C3F8B;
+  width: calc(100% - 50px);
+  text-transform: none;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-bidhistory,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-bidhistory,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-bidhistory {
+  display: none !important;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .myEstimates .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-askingbid .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-starting-bid .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-win-bid .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-maxbid .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo #item-status .vsqyrwlxigl,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-buynow .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .myEstimates .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-askingbid .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-starting-bid .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-win-bid .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-maxbid .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo #item-status .vsqyrwlxigl,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-buynow .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .myEstimates .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-askingbid .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-starting-bid .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-win-bid .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-maxbid .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo #item-status .vsqyrwlxigl,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-buynow .vsqyrwlxigl {
+  color: #000F4B;
+  margin: 0;
+  font-weight: 600;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  line-height: 22.4px;
+  vertical-align: top;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .myEstimates .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-askingbid .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-starting-bid .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-win-bid .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-maxbid .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo #item-status .igevypetouc,
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-buynow .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .myEstimates .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-askingbid .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-starting-bid .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-win-bid .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-maxbid .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo #item-status .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-buynow .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .myEstimates .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-askingbid .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-starting-bid .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-win-bid .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-maxbid .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo #item-status .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-buynow .igevypetouc {
+  color: #000F4B;
+  margin: 0;
+  font-weight: 400;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  line-height: 22.4px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid {
+  display: flex;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc {
+  color: #00A314;
+  display: flex;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc span:not(.exratetip),
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc span:not(.exratetip),
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .igevypetouc span:not(.exratetip) {
+  margin-right: 4px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .outbid,
+body.ytfckkueleozv .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .outbid,
+body.my-items .gjkqxsepjrhy li>section .oyzswvogxo .item-currentbid .outbid {
+  margin-left: 20px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .cqxxvvowtqjowf,
+body.ytfckkueleozv .gjkqxsepjrhy .cqxxvvowtqjowf,
+body.my-items .gjkqxsepjrhy .cqxxvvowtqjowf {
+  width: 300px;
+  vertical-align: top;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper {
+  display: flex;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper,
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  line-height: 14px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper p.quiujwtpgu,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper p.quiujwtpgu,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper p.quiujwtpgu {
+  margin-top: 0px;
+  font-size: 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper p.quiujwtpgu a,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper p.quiujwtpgu a,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper p.quiujwtpgu a {
+  font-family: 'Montserrat';
+  font-size: 14px;
+  color: #000f4b;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper .myTimerIcon svg,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper .myTimerIcon svg,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper .myTimerIcon svg {
+  fill: #00a314;
+  margin: 0px 12px 0px 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper .myTimerText,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper .myTimerText,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper .myTimerText {
+  width: 140px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper .mySaleLocationText,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper .mySaleLocationText,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper .mySaleLocationText {
+  width: 200px;
+  color: #000f4b;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper .mySaleLocationIcon svg,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper .mySaleLocationIcon svg,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .mySaleLocationWrapper .mySaleLocationIcon svg {
+  fill: #00aeef;
+  margin: 0px 12px 0px 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper .myConditionIcon svg,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper .myConditionIcon svg,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper .myConditionIcon svg {
+  fill: #00aeef;
+  margin: 0px 12px 0px 0px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper .myConditionText,
+body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper .myConditionText,
+body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper .myConditionWrapper .myConditionText {
+  color: #000f4b;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myCurrentStartBidText,
+body.ytfckkueleozv .gjkqxsepjrhy .myCurrentStartBidText,
+body.my-items .gjkqxsepjrhy .myCurrentStartBidText {
+  color: #0C3F8B;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 5px;
+  font-family: 'Montserrat';
+  font-size: 24px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .myCurrentStartBidText .outbid,
+body.ytfckkueleozv .gjkqxsepjrhy .myCurrentStartBidText .outbid,
+body.my-items .gjkqxsepjrhy .myCurrentStartBidText .outbid {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  font-size: 16px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu .bd-chk,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu .bd-chk,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu .bd-chk {
+  color: #d2d2d2;
+  width: 41px;
+  height: 41px;
+  min-width: auto;
+  background-color: #fbfbfb;
+  border-width: 1px;
+  border-style: solid;
+  border-image: initial;
+  padding: 10px;
+  border-color: #e5e5e5;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  line-height: 1.75;
+  border-radius: 32px;
+  cursor: pointer;
+  margin-top: -15px;
+  margin-right: -40px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>input[type=checkbox]:checked+label,
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>span>input[type=checkbox]:checked+label,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>input[type=checkbox]:checked+label,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>span>input[type=checkbox]:checked+label,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>input[type=checkbox]:checked+label,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>span>input[type=checkbox]:checked+label {
+  background: url(../images/star_watchlist_on.png) no-repeat;
+  width: 15px;
+  padding-right: 0px;
+  margin-top: 2px;
+  margin-left: 3px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>input+label,
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>span>input+label,
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>div.qradiobutton-ctl>span>input+label,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>input+label,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>span>input+label,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>div.qradiobutton-ctl>span>input+label,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>input+label,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>span>input+label,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu div.rotwkraytgwvsk:not(#foo)>div.qradiobutton-ctl>span>input+label {
+  background: url(../images/star_watchlist_off.png) no-repeat;
+  width: 15px;
+  padding-right: 0px;
+  margin-top: 2px;
+  margin-left: 3px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu i,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu i,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu i {
+  text-align: left;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 {
+  text-align: left;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+body.my-items .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a {
+  font-family: 'Montserrat';
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28.8px;
+  color: #0C3F8B;
+  width: 100%;
+  text-transform: none;
+  text-align: left;
+  white-space: normal;
+  text-overflow: unset;
+  overflow: visible;
+  height: 87px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .pfdofwzxwew,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .pfdofwzxwew,
+body.my-items .aucgrid li>section.xpqaxasqcfts .pfdofwzxwew {
+  background: none;
+  border: 0px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts>figure a img,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts>figure a img,
+body.my-items .aucgrid li>section.xpqaxasqcfts>figure a img {
+  height: 200px;
+  width: auto;
+  border: 0px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .vsqyrwlxigl,
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .igevypetouc,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .vsqyrwlxigl,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .igevypetouc,
+body.my-items .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .vsqyrwlxigl,
+body.my-items .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .igevypetouc {
+  color: #000F4B;
+  margin: 0;
+  font-weight: 600;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  line-height: 22.4px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .item-currentbid .igevypetouc,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .item-currentbid .igevypetouc,
+body.my-items .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .item-currentbid .igevypetouc {
+  color: #00A314;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .igevypetouc,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .igevypetouc,
+body.my-items .aucgrid li>section.xpqaxasqcfts ul.oyzswvogxo .igevypetouc {
+  font-weight: 400;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts p.uqcxcdooecroefq,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts p.uqcxcdooecroefq,
+body.my-items .aucgrid li>section.xpqaxasqcfts p.uqcxcdooecroefq {
+  color: #000F4B;
+  margin: 0;
+  font-weight: 600;
+  font-family: 'Montserrat';
+  font-size: 14px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts p.uqcxcdooecroefq .in-progress,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts p.uqcxcdooecroefq .in-progress,
+body.my-items .aucgrid li>section.xpqaxasqcfts p.uqcxcdooecroefq .in-progress {
+  font-family: 'Montserrat';
+  font-size: 14px;
+  color: #000f4b;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx section.next-bid-section>.xihsecaiwi,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx section.next-bid-section>.xihsecaiwi,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx section.next-bid-section>.xihsecaiwi {
+  width: 100%;
+  margin: 0px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi.ldevtleekuw a.orng,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi.ldevtleekuw a.orng,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi.ldevtleekuw a.orng {
+  color: white;
+  background-color: #cd1c26;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 3px 1px -2px rgba(0, 0, 0, 0.12);
+  min-width: 64px;
+  box-sizing: border-box;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  line-height: 24.5px;
+  border-radius: 32px;
+  letter-spacing: 0.39998px;
+  text-transform: none;
+  width: 175px;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  align-content: center;
+  line-height: 36px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx div:not([class]),
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx div:not([class]),
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx div:not([class]) {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj {
+  width: auto;
+  flex: 1;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0px;
+  border: 1px solid #ececec;
+  border-top-left-radius: 19px;
+  border-bottom-left-radius: 20px;
+  height: 50px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa {
+  width: 100%;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-maxbid,
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-forcebid,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-maxbid,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-forcebid,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-maxbid,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-forcebid {
+  background: #ffffff;
+  padding-left: 1rem;
+  width: 100%;
+  height: 45px;
+  outline: none;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi {
+  padding-left: 0px;
+  padding-right: 0px;
+  position: relative;
+  height: auto;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe {
+  position: relative;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe .dpohzsyycvxgav {
+  display: block;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  fill: #ffffff;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button] {
+  height: 50px;
+  min-width: 186px;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0 100px 100px 0;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  padding-left: 44px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  padding-right: 0px;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi input[type=button],
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi input[type=button],
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi input[type=button] {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0F841D;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  justify-content: center;
+  align-items: center;
+}
+
+body.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .reserve-not-met,
+body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .reserve-not-met,
+body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .reserve-not-met {
+  color: #de1d0f;
+  width: auto;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  line-height: 1;
+  justify-content: flex-start;
+  background-color: #f8f8f8;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e5e5e5;
+  border-image: initial;
+  margin: 0px;
+  padding: 10px;
+  flex-flow: row nowrap;
+  border-radius: 4px;
+  margin: 0 auto;
+  margin-top: 3px;
+}
+
+body.fhqtafqjvzcez .ssxlsqyqsvee,
+body.ytfckkueleozv .ssxlsqyqsvee,
+body.my-items .ssxlsqyqsvee {
+  font-weight: 400;
+  margin-right: 6px;
+  font-family: 'Montserrat';
+  font-size: 14px;
+}
+
+body.fhqtafqjvzcez li.syzzkzeggreyx.watchlist .xpqaxasqcfts,
+body.ytfckkueleozv li.syzzkzeggreyx.watchlist .xpqaxasqcfts,
+body.my-items li.syzzkzeggreyx.watchlist .xpqaxasqcfts {
+  padding-top: 18px;
+}
+
+body.fhqtafqjvzcez li.voestoukhksl,
+body.ytfckkueleozv li.voestoukhksl,
+body.my-items li.voestoukhksl {
+  background-color: transparent;
+}
+
+body.fhqtafqjvzcez .zsfjqqevuqlfz ul.tsyhigstus,
+body.ytfckkueleozv .zsfjqqevuqlfz ul.tsyhigstus,
+body.my-items .zsfjqqevuqlfz ul.tsyhigstus {
+  display: none;
+}
+
+body.ytfckkueleozv .auc-top-menu,
+body.my-items .auc-top-menu {
+  display: none;
+}
+
+body.ytfckkueleozv .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu i,
+body.ytfckkueleozv .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu i a,
+body.ytfckkueleozv .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu i span,
+body.my-items .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu i,
+body.my-items .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu i a,
+body.my-items .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu i span {
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28.8px;
+  color: #0C3F8B;
+  width: 100%;
+  text-transform: none;
+  text-align: left;
+  white-space: normal;
+  text-overflow: unset;
+  overflow: visible;
+}
+
+body.my-items #tabnav>li:first-child {
+  color: black;
+  cursor: pointer;
+  background-color: white;
+  border-top-color: #e5e5e5;
+  border-left-color: #e5e5e5;
+  border-right-color: transparent;
+  border-bottom-color: #e5e5e5;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 0px;
+  padding: 15.96px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+body.my-items #tabnav>li {
+  color: black;
+  cursor: pointer;
+  background-color: white;
+  border-top-color: #e5e5e5;
+  border-left-color: #e5e5e5;
+  border-right-color: transparent;
+  border-bottom-color: #e5e5e5;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  padding: 15.96px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+body.my-items #tabnav>li>a {
+  padding: 0px;
+  font-size: 14px;
+  font-family: 'Montserrat';
+  border: 0px;
+  background: none;
+}
+
+body.my-items #tabnav>li:last-child {
+  color: black;
+  cursor: pointer;
+  background-color: white;
+  border-top-color: #e5e5e5;
+  border-left-color: #e5e5e5;
+  border-right-color: #e5e5e5;
+  border-bottom-color: #e5e5e5;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 3px;
+  padding: 15.96px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+body.my-items #tabnav>li.voestoukhksl {
+  color: white;
+  cursor: pointer;
+  background-color: #0c3f8b;
+  padding: 15.96px;
+}
+
+body.my-items #tabnav>li.voestoukhksl>a {
+  color: #fff;
+}
+
+/* index page */
+body.index .accordionButton {
+  display: none;
+}
+
+body.index #aucDtr {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body.index #aucDtr li {
+  padding-top: 0px;
+}
+
+body.index #aucDtr .auclting {
+  width: calc(33.33% - 20px);
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  border: 1px #dcdcdc solid;
+  border-radius: 4px;
+  background: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+body.index #aucDtr .auclting li.aucimg,
+body.index #aucDtr .auclting li.aucdes,
+body.index #aucDtr .auclting li.auclink {
+  width: 100%;
+}
+
+body.index #aucDtr .auclting li.auclink {
+  padding-left: 10px;
+  padding-right: 10px;
+  align-self: flex-end;
+}
+
+body.index #aucDtr .auclting li.auclink .bidder-status {
+  display: none;
+}
+
+body.index #aucDtr .auclting li.auclink>div a.reg,
+body.index #aucDtr .auclting li.auclink>div a.cat {
+  height: 50px;
+  width: 100%;
+  display: flex;
+  padding: 0 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  justify-content: flex-start;
+  background-color: #0F841D !important;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Montserrat;
+  justify-content: center;
+  align-items: center;
+}
+
+body.index #aucDtr .auclting li.auclink>div a.reg {
+  display: none;
+}
+
+body.index #aucDtr .auclting li.aucimg figure a {
+  width: 100% !important;
+  padding-top: 20px;
+  min-height: 260px;
+  box-sizing: content-box;
+}
+
+body.index #aucDtr .auclting li.aucimg figure a img {
+  width: auto !important;
+  max-height: 260px;
+  max-width: 100%;
+}
+
+body.index #aucDtr .auclting li.aucdes {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+body.index #aucDtr .auclting li.aucdes .sale-no {
+  display: none;
+}
+
+body.index #aucDtr .auclting li.aucdes div:not([class]) p {
+  display: none;
+}
+
+body.index #aucDtr .auclting li.aucdes h6 a {
+  color: #0C3F8B;
+	
+	font-family: Montserrat, sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.12852px;
+  line-height: 24px;
+  text-transform: none;
+  font-weight: 600;
+}
+
+body.index #aucDtr .auclting li.aucdes .xqvczyauveqh {
+  display: flex;
+}
+
+body.index #aucDtr .auclting li.aucdes .xqvczyauveqh .myAutionNumberText {
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+body.index #aucDtr .auclting li.aucdes .xqvczyauveqh .myAutionNumber {
+  /* font-weight: 100; */
+}
+
+body.index #aucDtr .auclting li.aucdes .xqvczyauveqh .myAutionNumberText,
+body.index #aucDtr .auclting li.aucdes .xqvczyauveqh .myAutionNumber {
+  font-family: 'Montserrat';
+  font-size: 12px;
+  line-height: 19.2px;
+  color: #000F4B;
+}
+
+body.index #aucDtr .auclting li.aucdes .auction-custom-fields-wrap {
+  display: none;
+}
+
+body.index #aucDtr .auclting li.aucdes .myAuctionTypeWrapper {
+  display: flex;
+}
+
+body.index #aucDtr .auclting li.aucdes .myAuctionTypeWrapper .myAuctionTypeText,
+body.index #aucDtr .auclting li.aucdes .myAuctionTypeWrapper .myAuctionType {
+  font-family: 'Montserrat';
+  font-size: 14px;
+  color: #000f4b;
+  font-weight: normal;
+}
+
+body.index #aucDtr .auclting li.aucdes .myAuctionTypeWrapper .myAuctionTypeText {
+  margin-right: 5px;
+  font-weight: bold;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStatusNumberOfLotsWrapper {
+  display: flex;
+  margin-top: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px #dcdcdc solid;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStatusNumberOfLotsWrapper .myStatus,
+body.index #aucDtr .auclting li.aucdes .myStatusNumberOfLotsWrapper .myNumberOfLotsWrapper {
+  width: 50%;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStatusNumberOfLotsWrapper .myStatus {
+  color: #0F841D;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStatusNumberOfLotsWrapper .myNumberOfLotsWrapper {
+  display: flex;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStatusNumberOfLotsWrapper .myNumberOfLotsWrapper .myNumberOfLotsText {
+  font-family: 'Montserrat';
+  color: #000f4b;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper {
+  display: flex;
+  margin-top: 15px;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper .myStartEndTimeWrapper,
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper .myLocationWrapper {
+  display: flex;
+  width: 50%;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper .myStartEndTimeIcon {
+  margin-right: 10px;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper .myStartEndTimeText span,
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper .myLocationText span {
+  padding-right: 10px;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-weight: 500;
+  color: #000f4b;
+  display: block;
+}
+
+body.index #aucDtr .auclting li.aucdes .myStartEndTimeLocationWrapper .myLocationWrapper .myLocationIcon .dpohzsyycvxgav {
+  fill: #00aeef;
+  margin: 0px 10px 0px 0px;
+}
+
+body.index .hlfuhxzgtdwpzdv {
+  margin-top: 0px;
+}
+
+body.index .hlfuhxzgtdwpzdv .yudhfltacl:not(.auc_box) {
+  display: none;
+}
+
+body.index .auction-filters {
+  text-align: left;
+}
+
+body.index .auction-filters li:last-child {
+  margin-top: 12px;
+  display: none;
+}
+
+body.index .auction-filters li:nth-child(3) {
+  display: none;
+}
+
+body.index .auction-filters li:first-child {
+  margin-left: 0px;
+}
+
+body.index .auction-filters li:first-child .ui-widget {
+  width: 250px;
+}
+
+body.index .auction-filters * {
+  box-sizing: content-box;
+}
+
+body.index .auction-filters .ui-button-icon-only .ui-icon {
+  background: url(../images/drparw.png) 2px center no-repeat;
+  width: 32px;
+  height: 32px;
+}
+
+body.index .auction-filters .custom-combobox:hover {
+  border: 1px solid #0C3F8B !important;
+}
+
+body.index .auction-filters .ui-widget .ui-widget.custom-combobox-toggle {
+  background-color: transparent;
+  width: 32px;
+  height: 32px;
+  margin-top: 10px;
+}
+
+body.index .auction-filters .ui-widget .ui-widget.custom-combobox-input {
+  padding: 20px;
+}
+
+body.index .auction-filters .ui-widget .ui-icon {
+  margin-top: -15px;
+  margin-left: -20px;
+}
+
+body.index .auction-filters .ui-state-default {
+  background: none;
+}
+
+/* auction info page */
+body.sasotszjtvw-info .pqezjiusxr>div.tle .xihsecaiwi,
+body.sasotszjtvw-info .quwzslsgtddac,
+body.sasotszjtvw-info .opciqoviuhq {
+  display: none;
+}
+
+body.sasotszjtvw-info .description-content p,
+body.sasotszjtvw-info .description-content ul li,
+body.sasotszjtvw-info .shipping-info-content p,
+body.sasotszjtvw-info .shipping-info-content ul li,
+body.sasotszjtvw-info .terms-content p,
+body.sasotszjtvw-info .terms-content ul li {
+  font-size: 14px;
+  color: #000;
+}
+
+body.sasotszjtvw-info #zuwxoeujstw {
+  padding-top: 19px;
+}
+
+body.sasotszjtvw-info #zuwxoeujstw #zuwxoeujstw {
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+body.sasotszjtvw-info #zuwxoeujstw .riodadvepd {
+  padding-top: 0px;
+}
+
+body.sasotszjtvw-info #zuwxoeujstw .riodadvepd .pqezjiusxr {
+  padding-top: 0px;
+}
+
+body.sasotszjtvw-info .fsylkdsxkcjvwc {
+  border-left: 0px;
+  border-right: 0px;
+}
+
+body.sasotszjtvw-info .drpjqtppkhvy {
+  margin-bottom: 20px;
+}
+
+body.sasotszjtvw-info .phaephjyzyzigd {
+  color: #0C3F8B;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 48px;
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+body.sasotszjtvw-info .xqvczyauveqh {
+  display: flex;
+  margin-bottom: 12px;
+}
+
+body.sasotszjtvw-info .xqvczyauveqh .azvucykgqrdvdg {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 19.2px;
+  color: #000;
+}
+
+body.sasotszjtvw-info .xqvczyauveqh .ihxdchukotwk {
+  font-weight: 600;
+  margin-right: 6px;
+  font-family: 'Montserrat';
+  font-size: 12px;
+  margin-right: 6px;
+  color: #000;
+  line-height: 19.2px;
+}
+
+body.sasotszjtvw-info .yzykiwigyd {
+  text-align: left;
+}
+
+.lot-details.auction6 .aucInfoWrapper,
+.lot-details.auction6 .myHistoryWrapper,
+.lot-details.auction6 .myTimerWrapper,
+.lot-details.auction6 .myStartTime,
+.lot-details.auction6 .myEndTime,
+.lot-details.auction6 .bidfrm .zfycdckijiiesgh-closed,
+
+.lot-details.auction590 .aucInfoWrapper,
+.lot-details.auction590 .myHistoryWrapper,
+.lot-details.auction590 .myTimerWrapper,
+.lot-details.auction590 .myStartTime,
+.lot-details.auction590 .myEndTime,
+.lot-details.auction590 .bidfrm .zfycdckijiiesgh-closed,
+
+.lot-details.auction592 .aucInfoWrapper,
+.lot-details.auction592 .myHistoryWrapper,
+.lot-details.auction592 .myTimerWrapper,
+.lot-details.auction592 .myStartTime,
+.lot-details.auction592 .myEndTime,
+.lot-details.auction592 .bidfrm .zfycdckijiiesgh-closed,
+
+.lot-details.auction593 .aucInfoWrapper,
+.lot-details.auction593 .myHistoryWrapper,
+.lot-details.auction593 .myTimerWrapper,
+.lot-details.auction593 .myStartTime,
+.lot-details.auction593 .myEndTime,
+.lot-details.auction593 .bidfrm .zfycdckijiiesgh-closed,
+
+.lot-details.auction594 .aucInfoWrapper,
+.lot-details.auction594 .myHistoryWrapper,
+.lot-details.auction594 .myTimerWrapper,
+.lot-details.auction594 .myStartTime,
+.lot-details.auction594 .myEndTime,
+.lot-details.auction594 .bidfrm .zfycdckijiiesgh-closed,
+
+.lot-details.auction637 .aucInfoWrapper,
+.lot-details.auction637 .myHistoryWrapper,
+.lot-details.auction637 .myTimerWrapper,
+.lot-details.auction637 .myStartTime,
+.lot-details.auction637 .myEndTime,
+.lot-details.auction637 .bidfrm .zfycdckijiiesgh-closed {
+  display: none !important;
+}
+
+.fhqtafqjvzcez.auction6 .xqvczyauveqh,
+.fhqtafqjvzcez.auction6 .myTimerWrapper,
+.fhqtafqjvzcez.auction6 .lxvqqdfhwrg,
+.fhqtafqjvzcez.auction6 .griaiftgxshrh,
+.fhqtafqjvzcez.auction6 .xkzjivqittp,
+.fhqtafqjvzcez.auction6 .zsfjqqevuqlfz li>section>p.uqcxcdooecroefq,
+.fhqtafqjvzcez.auction6 .zsfjqqevuqlfz ul.oyzswvogxo .item-buynow,
+.fhqtafqjvzcez.auction6 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction6 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction6 .myHistoryReserve,
+
+.fhqtafqjvzcez.auction590 .xqvczyauveqh,
+.fhqtafqjvzcez.auction590 .myTimerWrapper,
+.fhqtafqjvzcez.auction590 .lxvqqdfhwrg,
+.fhqtafqjvzcez.auction590 .griaiftgxshrh,
+.fhqtafqjvzcez.auction590 .xkzjivqittp,
+.fhqtafqjvzcez.auction590 .zsfjqqevuqlfz li>section>p.uqcxcdooecroefq,
+.fhqtafqjvzcez.auction590 .zsfjqqevuqlfz ul.oyzswvogxo .item-buynow,
+.fhqtafqjvzcez.auction590 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction590 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction590 .myHistoryReserve,
+
+.fhqtafqjvzcez.auction592 .xqvczyauveqh,
+.fhqtafqjvzcez.auction592 .myTimerWrapper,
+.fhqtafqjvzcez.auction592 .lxvqqdfhwrg,
+.fhqtafqjvzcez.auction592 .griaiftgxshrh,
+.fhqtafqjvzcez.auction592 .xkzjivqittp,
+.fhqtafqjvzcez.auction592 .zsfjqqevuqlfz li>section>p.uqcxcdooecroefq,
+.fhqtafqjvzcez.auction592 .zsfjqqevuqlfz ul.oyzswvogxo .item-buynow,
+.fhqtafqjvzcez.auction592 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction592 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction592 .myHistoryReserve,
+
+.fhqtafqjvzcez.auction593 .xqvczyauveqh,
+.fhqtafqjvzcez.auction593 .myTimerWrapper,
+.fhqtafqjvzcez.auction593 .lxvqqdfhwrg,
+.fhqtafqjvzcez.auction593 .griaiftgxshrh,
+.fhqtafqjvzcez.auction593 .xkzjivqittp,
+.fhqtafqjvzcez.auction593 .zsfjqqevuqlfz li>section>p.uqcxcdooecroefq,
+.fhqtafqjvzcez.auction593 .zsfjqqevuqlfz ul.oyzswvogxo .item-buynow,
+.fhqtafqjvzcez.auction593 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction593 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction593 .myHistoryReserve,
+
+.fhqtafqjvzcez.auction594 .xqvczyauveqh,
+.fhqtafqjvzcez.auction594 .myTimerWrapper,
+.fhqtafqjvzcez.auction594 .lxvqqdfhwrg,
+.fhqtafqjvzcez.auction594 .griaiftgxshrh,
+.fhqtafqjvzcez.auction594 .xkzjivqittp,
+.fhqtafqjvzcez.auction594 .zsfjqqevuqlfz li>section>p.uqcxcdooecroefq,
+.fhqtafqjvzcez.auction594 .zsfjqqevuqlfz ul.oyzswvogxo .item-buynow,
+.fhqtafqjvzcez.auction594 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction594 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction594 .myHistoryReserve,
+
+.fhqtafqjvzcez.auction637 .xqvczyauveqh,
+.fhqtafqjvzcez.auction637 .myTimerWrapper,
+.fhqtafqjvzcez.auction637 .lxvqqdfhwrg,
+.fhqtafqjvzcez.auction637 .griaiftgxshrh,
+.fhqtafqjvzcez.auction637 .xkzjivqittp,
+.fhqtafqjvzcez.auction637 .zsfjqqevuqlfz li>section>p.uqcxcdooecroefq,
+.fhqtafqjvzcez.auction637 .zsfjqqevuqlfz ul.oyzswvogxo .item-buynow,
+.fhqtafqjvzcez.auction637 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction637 .gjkqxsepjrhy .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+.fhqtafqjvzcez.auction637 .myHistoryReserve {
+  display: none !important;
+}
+
+.fhqtafqjvzcez.auction6 .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+
+.fhqtafqjvzcez.auction590 .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+
+.fhqtafqjvzcez.auction592 .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+
+.fhqtafqjvzcez.auction593 .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+
+.fhqtafqjvzcez.auction594 .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a,
+.fhqtafqjvzcez.auction637 .aucgrid li>section.xpqaxasqcfts .uwvwfhgwhfwqgu h2 a {
+  height: 87px;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1200px) {
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a,
+  body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a,
+  body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a {
+    width: calc(100% - 30px);
+    padding-right: 30px;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr {
+    width: calc(55% - 24px);
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd {
+    width: 45%;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .myTimerLocationConditionWrapper,
+  body.ytfckkueleozv .gjkqxsepjrhy .myTimerLocationConditionWrapper,
+  body.my-items .gjkqxsepjrhy .myTimerLocationConditionWrapper {
+    flex-wrap: wrap;
+  }
+
+  body.fhqtafqjvzcez .aucgrid li.syzzkzeggreyx,
+  body.ytfckkueleozv .aucgrid li.syzzkzeggreyx,
+  body.my-items .aucgrid li.syzzkzeggreyx {
+    width: 50%;
+  }
+
+  body.fhqtafqjvzcez .aucgrid li.syzzkzeggreyx:nth-child(3n),
+  body.ytfckkueleozv .aucgrid li.syzzkzeggreyx:nth-child(3n),
+  body.my-items .aucgrid li.syzzkzeggreyx:nth-child(3n) {
+    border-right: 1px #E5E5E5 solid;
+  }
+
+  body.fhqtafqjvzcez .aucgrid li.syzzkzeggreyx:nth-child(2n),
+  body.ytfckkueleozv .aucgrid li.syzzkzeggreyx:nth-child(2n),
+  body.my-items .aucgrid li.syzzkzeggreyx:nth-child(2n) {
+    border-right: 0px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .jss172 {
+    display: none !important;
+  }
+
+  #zuwxoeujstw {
+    width: 100% !important;
+  }
+
+  .lot-details .auc_show {
+    display: block;
+  }
+
+  .lot-details .auc_show .auc_slide,
+  .lot-details .auc_show .auc_info {
+    width: 100% !important;
+    max-width: 100%;
+    flex-basis: 100%;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+
+  .lot-details .auc_show .myGallerySliderWrap {
+    width: 440px;
+    margin: 0 auto;
+  }
+
+  body.index #aucDtr .auclting {
+    width: calc(50% - 20px);
+  }
+
+  body.index #zuwxoeujstw {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media screen and (max-width: 980px) {
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .oygoihxpefpfgx span.currency-input,
+  body.ytfckkueleozv .gjkqxsepjrhy .oygoihxpefpfgx span.currency-input,
+  body.my-items .gjkqxsepjrhy .oygoihxpefpfgx span.currency-input {
+    height: auto;
+    border: 0px;
+    width: 100%;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy li>section>.cqxxvvowtqjowf>figure a img,
+  body.ytfckkueleozv .gjkqxsepjrhy li>section>.cqxxvvowtqjowf>figure a img,
+  body.my-items .gjkqxsepjrhy li>section>.cqxxvvowtqjowf>figure a img {
+    max-width: 70%;
+    max-height: unset;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts {
+    display: block;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .ozldtjcvhkhaeoq,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .ozldtjcvhkhaeoq,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .ozldtjcvhkhaeoq {
+    display: block;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .cqxxvvowtqjowf,
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .vgoilycxsz,
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .ykzhwyxsugehdgr,
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .gkhuyofxehjjizd,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .cqxxvvowtqjowf,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .vgoilycxsz,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .ykzhwyxsugehdgr,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .gkhuyofxehjjizd,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .cqxxvvowtqjowf,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .vgoilycxsz,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .ykzhwyxsugehdgr,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .gkhuyofxehjjizd {
+    width: 100% !important;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .ykzhwyxsugehdgr,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .ykzhwyxsugehdgr,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .ykzhwyxsugehdgr {
+    border-right: 0px !important;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy .xpqaxasqcfts .vgoilycxsz,
+  body.ytfckkueleozv .gjkqxsepjrhy .xpqaxasqcfts .vgoilycxsz,
+  body.my-items .gjkqxsepjrhy .xpqaxasqcfts .vgoilycxsz {
+    margin-top: 20px;
+  }
+
+  body.fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a,
+  body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a,
+  body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 a {
+    width: 100%;
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width: 778px) {
+  .lot-details .force-bid-note {
+    margin-top: 30px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid {
+    padding-bottom: 40px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .lot-details .myCurrentBidWrapper {
+    flex-wrap: wrap;
+  }
+
+  .lot-details .myCurrentBidWrapper .myCurrentBid {
+    width: 100%;
+  }
+
+  .lot-details .reserveNotMetWrapper {
+    margin-left: 0px !important;
+  }
+
+  .auc-top-menu {
+    flex-wrap: wrap;
+  }
+
+  .lot-details .myTimerViewsHist {
+    display: block;
+    border-right: 0px;
+  }
+
+  .lot-details .myTimerViewsHist .myTimerIcon {
+    margin-right: 0px;
+  }
+
+  .lot-details .myTimerViewsHist .myViewsWrapper,
+  .lot-details .myTimerViewsHist .myTimerWrapper {
+    border-right: 0px;
+  }
+
+  .lot-details .aucInfo {
+    display: block;
+  }
+
+  .fhqtafqjvzcez .drpjqtppkhvy .ehwfxsxayuld,
+  body.ytfckkueleozv .drpjqtppkhvy .ehwfxsxayuld,
+  body.my-items .drpjqtppkhvy .ehwfxsxayuld {
+    margin-bottom: 10px;
+  }
+
+  .fhqtafqjvzcez .drpjqtppkhvy .ufisghlrkp,
+  body.ytfckkueleozv .drpjqtppkhvy .ufisghlrkp,
+  body.my-items .drpjqtppkhvy .ufisghlrkp {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .fhqtafqjvzcez .drpjqtppkhvy .qaaugesrisrykas,
+  body.ytfckkueleozv .drpjqtppkhvy .qaaugesrisrykas,
+  body.my-items .drpjqtppkhvy .qaaugesrisrykas {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+
+  .fhqtafqjvzcez .drpjqtppkhvy .lzfakttliiojdpv,
+  body.ytfckkueleozv .drpjqtppkhvy .lzfakttliiojdpv,
+  body.my-items .drpjqtppkhvy .lzfakttliiojdpv {
+    display: block;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .gkhuyofxehjjizd,
+  body.ytfckkueleozv .gjkqxsepjrhy .gkhuyofxehjjizd,
+  body.my-items .gjkqxsepjrhy .gkhuyofxehjjizd {
+    padding-left: 0px;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input {
+    padding-left: 0px;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt .xihsecaiwi {
+    padding-right: 0px;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section .xihsecaiwi,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section .xihsecaiwi,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .next-bid-section .xihsecaiwi {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .fhqtafqjvzcez .aucgrid li.syzzkzeggreyx,
+  body.ytfckkueleozv .aucgrid li.syzzkzeggreyx,
+  body.my-items .aucgrid li.syzzkzeggreyx {
+    width: 100% !important;
+  }
+
+  .fhqtafqjvzcez .aucgrid li.syzzkzeggreyx,
+  body.ytfckkueleozv .aucgrid li.syzzkzeggreyx,
+  body.my-items .aucgrid li.syzzkzeggreyx {
+    border-right: 0px !important;
+    border-left: 0px !important;
+  }
+
+  .fhqtafqjvzcez .aucgrid .oygoihxpefpfgx span.currency-input,
+  .fhqtafqjvzcez .aucgrid li>section>div.oygoihxpefpfgx section.xvykyxlvwkltppj span,
+  body.ytfckkueleozv .aucgrid .oygoihxpefpfgx span.currency-input,
+  body.ytfckkueleozv .aucgrid li>section>div.oygoihxpefpfgx section.xvykyxlvwkltppj span,
+  body.my-items .aucgrid .oygoihxpefpfgx span.currency-input,
+  body.my-items .aucgrid li>section>div.oygoihxpefpfgx section.xvykyxlvwkltppj span {
+    width: 100%;
+  }
+
+  body.sasotszjtvw-info .drpjqtppkhvy .qaaugesrisrykas {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+
+@media screen and (max-width: 640px) {
+
+  .fhqtafqjvzcez .jhdtghjakudr,
+  body.ytfckkueleozv .jhdtghjakudr,
+  body.my-items .jhdtghjakudr {
+    width: 100%;
+  }
+
+  .fhqtafqjvzcez .dgkduhiwekitwyj,
+  body.ytfckkueleozv .dgkduhiwekitwyj,
+  body.my-items .dgkduhiwekitwyj {
+    margin-left: 0px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .lzfakttliiojdpv {
+    margin-top: 16px;
+    padding-top: 16px !important;
+    border-top: 1px solid #E5E5E5;
+  }
+
+  .egzyzwxzoozq {
+    width: 100%;
+  }
+
+  .lot-details .warning {
+    position: absolute;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .lot-details .placebid,
+  .lot-details .forcebid {
+    margin-top: 10px;
+    position: relative;
+  }
+
+  .lot-details #nav {
+    margin-top: 10px;
+    width: 100%;
+    padding-left: 0px !important;
+  }
+
+  .lot-details #nav>li>a,
+  .lot-details #nav>li a.active {
+    background: none !important;
+  }
+
+  .lot-details #nav>li#lot-details-desc-info {
+    border: 0px;
+  }
+
+  .lot-details .auc_show .auc_info .myCustomFieldTableWrapper {
+    border: 0px;
+    border-top: 1px solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
+    padding-bottom: 0px;
+  }
+
+  .lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable {
+    display: block !important;
+    background: none !important;
+  }
+
+  .lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    border-top: 1px solid #E5E5E5;
+  }
+
+  .lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div .myCustomValue {
+    margin-top: 0px !important;
+  }
+
+  .lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div:nth-child(2) {
+    border-top: 1px solid #E5E5E5;
+  }
+
+  .lot-details .auc_show .auc_info .myCustomFieldTableWrapper .myCustomFieldTable>div:first-child {
+    border-top: 0px;
+  }
+
+  body.index #aucDtr .auclting {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 568px) {
+
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid,
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid,
+  .lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid,
+  .lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid {
+    width: 100%;
+    border-radius: 100px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid .mxbid-input,
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid .force-bid,
+  .lot-details .auc_info_bid .bidfrm fieldset.forcebid .mxbid-input,
+  .lot-details .auc_info_bid .bidfrm fieldset.forcebid .force-bid {
+    border-top-right-radius: 19px;
+    border-bottom-right-radius: 20px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset.buying .xihsecaiwi input[type=button].orng {
+    width: 100% !important;
+    margin-top: 10px !important;
+  }
+
+  .terms-content {
+    display: none;
+  }
+
+  .is-open .terms-content {
+    display: block;
+  }
+
+  #zuwxoeujstw {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+
+  .riodadvepd {
+    width: 100% !important;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .lot-details .myGallerySliderWrap {
+    width: 100% !important;
+  }
+
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child .lbl-offer {
+    border-top-right-radius: 19px;
+    border-bottom-right-radius: 20px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li:first-child input[type=text] {
+    width: 90% !important;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li .xihsecaiwi .make-offer {
+    border-radius: 100px;
+    width: 100%;
+    display: block;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa .xihsecaiwi .sdryvhaqesqe input[type=button].orng,
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa .xihsecaiwi .sdryvhaqesqe input[type=button].drkblu {
+    width: 100%;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa {
+    flex-wrap: wrap;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid) ul li.counter-offer:nth-child(5) .wzpyyyextodwa .xihsecaiwi {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .fhqtafqjvzcez .myTimerLocationConditionWrapper,
+  body.ytfckkueleozv .myTimerLocationConditionWrapper,
+  body.my-items .myTimerLocationConditionWrapper {
+    display: block !important;
+  }
+
+  .fhqtafqjvzcez .myTimerLocationConditionWrapper .myConditionWrapper,
+  .fhqtafqjvzcez .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+  .fhqtafqjvzcez .myTimerLocationConditionWrapper .mySaleLocationWrapper,
+  body.ytfckkueleozv .myTimerLocationConditionWrapper .myConditionWrapper,
+  body.ytfckkueleozv .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+  body.ytfckkueleozv .myTimerLocationConditionWrapper .mySaleLocationWrapper,
+  body.my-items .myTimerLocationConditionWrapper .myConditionWrapper,
+  body.my-items .myTimerLocationConditionWrapper .myInnerTimerWrapper,
+  body.my-items .myTimerLocationConditionWrapper .mySaleLocationWrapper {
+    justify-content: left !important;
+    width: 100%;
+  }
+
+  .fhqtafqjvzcez .myTimerLocationConditionWrapper .myTimerText,
+  body.ytfckkueleozv .myTimerLocationConditionWrapper .myTimerText,
+  body.my-items .myTimerLocationConditionWrapper .myTimerText {
+    width: 100%;
+  }
+
+  .fhqtafqjvzcez div.rotwkraytgwvsk,
+  body.ytfckkueleozv div.rotwkraytgwvsk,
+  body.my-items div.rotwkraytgwvsk {
+    padding-top: 0px;
+  }
+
+  .fhqtafqjvzcez .jhdtghjakudr label,
+  body.ytfckkueleozv .jhdtghjakudr label,
+  body.my-items .jhdtghjakudr label {
+    color: #000F4B;
+    font-size: 11px;
+    font-family: 'Montserrat';
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  .fhqtafqjvzcez .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu,
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  body.ytfckkueleozv .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr,
+  body.my-items .zsfjqqevuqlfz li>section div.uwvwfhgwhfwqgu,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.ykzhwyxsugehdgr {
+    margin-left: 0px !important;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2,
+  body.ytfckkueleozv .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2,
+  body.my-items .gjkqxsepjrhy li>section div.uwvwfhgwhfwqgu h2 {
+    margin-top: 30px;
+  }
+
+  .fhqtafqjvzcez .hlfuhxzgtdwpzdv .wahjaezwcvl figure,
+  body.ytfckkueleozv .hlfuhxzgtdwpzdv .wahjaezwcvl figure,
+  body.my-items .hlfuhxzgtdwpzdv .wahjaezwcvl figure {
+    height: auto;
+  }
+
+  .fhqtafqjvzcez .hlfuhxzgtdwpzdv .wahjaezwcvl figure>a>img,
+  body.ytfckkueleozv .hlfuhxzgtdwpzdv .wahjaezwcvl figure>a>img,
+  body.my-items .hlfuhxzgtdwpzdv .wahjaezwcvl figure>a>img {
+    max-height: unset;
+    max-width: 100%;
+  }
+
+  .fhqtafqjvzcez .myHistoryReserve,
+  body.ytfckkueleozv .myHistoryReserve,
+  body.my-items .myHistoryReserve {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .fhqtafqjvzcez .aucgrid .bd-chk,
+  body.ytfckkueleozv .aucgrid .bd-chk,
+  body.my-items .aucgrid .bd-chk {
+    right: 45px;
+  }
+
+  body.index .auction-filters li:first-child .ui-widget {
+    width: 100%;
+  }
+
+  body.index ul.auction-filters>li {
+    margin-right: 0px;
+  }
+
+  body.index .accordionContent section {
+    width: 100%;
+  }
+
+  body.index .auction-filters * {
+    box-sizing: border-box;
+  }
+
+  body.index ul.auction-filters .ui-widget .ui-widget.custom-combobox-input {
+    height: unset;
+    padding: 20px !important;
+    width: 100%;
+  }
+
+  body.index ul.auction-filters>li {
+    margin-left: 0px;
+  }
+
+  body.index .accordionContent section {
+    padding: 0px !important;
+  }
+
+  body.index .myStartEndTimeLocationWrapper {
+    flex-wrap: wrap;
+  }
+
+  body.index .myStartEndTimeLocationWrapper .myStartEndTimeWrapper,
+  body.index .myStartEndTimeLocationWrapper .myLocationWrapper {
+    width: 100% !important;
+  }
+
+  body.index .myStartEndTimeLocationWrapper .myStartEndTimeWrapper .myStartEndTimeText,
+  body.index .myStartEndTimeLocationWrapper .myLocationWrapper .myStartEndTimeText {
+    text-align: left;
+  }
+
+  body.index .myStatusNumberOfLotsWrapper {
+    flex-wrap: wrap;
+  }
+
+  body.index .myStatusNumberOfLotsWrapper .myNumberOfLotsWrapper,
+  body.index .myStatusNumberOfLotsWrapper .myStatus {
+    width: 100% !important;
+    text-align: left !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  body.index ul.auction-filters>li {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .lot-details .myGallerySliderWrap .mediaThumbnails {
+    width: 227px;
+  }
+
+}
+
+@media screen and (max-width: 420px) {
+  .lot-details .riodadvepd {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .lot-details .placebid {
+    padding-bottom: 0px !important;
+  }
+
+  .lot-details .placebid ul li:first-child {
+    margin-bottom: 40px;
+  }
+
+  .lot-details .forcebid ul li:first-child {
+    padding-bottom: 0px;
+  }
+
+  .lot-details .forcebid ul li .xihsecaiwi {
+    margin-top: 0px !important;
+  }
+
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid ul,
+  .lot-details .auc_info_bid .bidfrm fieldset.forcebid ul {
+    display: block;
+  }
+
+
+  .lot-details .auc_info_bid .bidfrm fieldset.placebid .oaltcfortoieqa,
+  .lot-details .auc_info_bid .bidfrm fieldset.forcebid .oaltcfortoieqa {
+    margin-right: 20px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset.forcebid ul {
+    display: block !important;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .xihsecaiwi.bidding-next input[type=button].orng {
+    width: 100% !important;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid):not(.forcebid) ul {
+    display: block;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid):not(.forcebid) ul li:first-child .lbl-offer {
+    border-top-right-radius: 19px;
+    border-bottom-right-radius: 20px;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid):not(.forcebid) ul li:first-child .lbl-offer .oaltcfortoieqa input[type=text] {
+    width: 90% !important;
+  }
+
+  .lot-details .auc_info_bid .bidfrm .bidding-fieldset:not(.buying):not(.nextbid):not(.forcebid) ul li .xihsecaiwi .make-offer {
+    width: 100%;
+    border-radius: 100px;
+  }
+
+  .lot-details .auc_show .myGallerySliderWrap {
+    width: auto;
+  }
+
+  .lot-details .auc_show .auc_slide {
+    min-width: unset;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx div:not([class]),
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx div:not([class]),
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx div:not([class]) {
+    display: block !important;
+  }
+
+  .fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx div:not([class]),
+  body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx div:not([class]),
+  body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx div:not([class]) {
+    display: block !important;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj,
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt,
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+  .fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+  .fhqtafqjvzcez .zsfjqqevuqlfz li>section>div.oygoihxpefpfgx section.xvykyxlvwkltppj,
+  .fhqtafqjvzcez .aucgrid li>section>div.oygoihxpefpfgx section.phgjgtcrqgt,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+  body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+  body.ytfckkueleozv .zsfjqqevuqlfz li>section>div.oygoihxpefpfgx section.xvykyxlvwkltppj,
+  body.ytfckkueleozv .aucgrid li>section>div.oygoihxpefpfgx section.phgjgtcrqgt,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+  body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+  body.my-items .zsfjqqevuqlfz li>section>div.oygoihxpefpfgx section.xvykyxlvwkltppj,
+  body.my-items .aucgrid li>section>div.oygoihxpefpfgx section.phgjgtcrqgt {
+    width: 100% !important;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+  .fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+  body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.phgjgtcrqgt input[type=button],
+  body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button] {
+    border-radius: 100px !important;
+  }
+
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid,
+  .fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input,
+  .fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid,
+  body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input,
+  body.ytfckkueleozv .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-maxbid,
+  body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input,
+  body.my-items .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.xvykyxlvwkltppj .currency-input .timed-forcebid {
+    border-top-right-radius: 19px;
+    border-bottom-right-radius: 20px;
+  }
+
+  .fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-maxbid,
+  body.ytfckkueleozv .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-maxbid,
+  body.my-items .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xvykyxlvwkltppj span.currency-input .oaltcfortoieqa .timed-maxbid {
+    width: 90% !important;
+  }
+
+  body.index .ykdzzyrxhfh .customSelectInner {
+    width: 100% !important;
+  }
+}
+
+@media screen and (max-width: 656px) {
+
+  body.lot-details #zuwxoeujstw {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .lot-details ul#nav>li>a {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+
+@media screen and (max-width: 568px) {
+
+  .lot-details ul#nav>li>a {
+    background: url(../images/arrow_down.png) no-repeat right !important;
+    font-size: 20px !important;
+  }
+
+  .lot-details ul#nav>li>a.active {
+    background: url(../images/arrow_up.png) no-repeat right !important;
+  }
+}
+
+.lot-details .counter-offer,
+.lot-details .counter-offer .rhqycrfdxqwu {
+  width: 100%;
+}
+
+.lot-details .counter-offer .rhqycrfdxqwu .zfycdckijiiesgh {
+  text-align: left;
+  color: #000;
+}
+
+.lot-details .counter-offer .rhqycrfdxqwu .zfycdckijiiesgh br {
+  display: none;
+}
+
+.lot-details .reserve-not-met {
+  color: #de1d0f;
+  width: auto;
+  height: 35px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  line-height: 1;
+  justify-content: flex-start;
+  background-color: #f8f8f8;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #e5e5e5;
+  border-image: initial;
+  margin: 0px;
+  padding: 10px;
+  flex-flow: row nowrap;
+  border-radius: 4px;
+}
+
+.lot-details .reserveNotMetWrapper {
+  margin-left: 20px;
+}
+
+.lot-details .myCurrentBidWrapper {
+  display: flex;
+}
+
+body.fhqtafqjvzcez .gjkqxsepjrhy .vgoilycxsz>.ozldtjcvhkhaeoq.gkhuyofxehjjizd .oygoihxpefpfgx section.zurgaghavgcxr:not(.next-bid-section) .ldevtleekuw input[type=button] {
+  width: 100%;
+}
+
+
+/* 
+Starts : my-invoices.my-invoices-print starts
+*/
+
+body.my-invoices.my-invoices-print #zuwxoeujstw {
+  width: 90%;
+}
+
+.my-invoices.my-invoices-print table.invoice-datagrid {
+  width: 100%;
+}
+
+.my-invoices.my-invoices-print th.item-lot-num,
+.my-invoices.my-invoices-print td.item-lot-num {
+  display: none;
+}
+
+.my-invoices.my-invoices-print .footable {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid #cccccc;
+  font-family: 'proxima_nova_softregular', 'trebuchet MS', 'Lucida sans', Arial;
+  font-size: 13px;
+  line-height: 1;
+  background: #ffffff;
+  table-layout: auto;
+}
+
+.my-invoices.my-invoices-print .footable>tbody>tr>td {
+  background: #ffffff !important;
+}
+
+.my-invoices.my-invoices-print .footable>thead>tr>th {
+  text-align: left;
+  background: linear-gradient(to bottom, rgba(254, 254, 254, 1) 0%, rgba(239, 238, 238, 1) 100%) !important;
+  -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.8) inset;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.8) inset !important;
+  border-top: none;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) !important;
+  border: none !important;
+  font-weight: 600;
+}
+
+.my-invoices.my-invoices-print .foolarge>thead>tr>th {
+  padding: 15px 14px;
+}
+
+.my-invoices.my-invoices-print h3 span {
+	
+	font-family: Montserrat, sans-serif;
+
+}
+
+.my-invoices.my-invoices-print div.notes {
+  border: 1px #CCCCCC solid !important;
+}
+
+.my-invoices.my-invoices-print div.notes h4 {
+  background: linear-gradient(to bottom, #fefefe 0%, #efeeee 100%) !important;
+  border-bottom: 1px #CCCCCC solid;
+}
+
+/* 
+Ends : my-invoices.my-invoices-print ends
+*/
+
+.myRrpFieldWrapper {
+  display: flex;
+  padding-left: 10px;
+  color: #0C3F8B;
+  font-family: 'Montserrat';
+}
+
+.myRrpFieldWrapper .myRrpLabel {
+  margin-right: 5px;
+}
+
+.lot-details .myRrpFieldWrapper {
+  font-size: 18px;
+  padding-left: 0px;
+}
+
+.lot-details .tabhide,
+.sasotszjtvw-info .tabhide {
+  display: none !important;
+}
+
+.sasotszjtvw-info .ins_cnt {
+  height: auto;
+  overflow: unset;
+  word-break: normal !important;
+}
+
+/*Starts : .my-settlements.my-settlements-print */
+
+.my-settlements.my-settlements-print table thead tr th {
+  background: linear-gradient(to bottom, rgba(254, 254, 254, 1) 0%, rgba(239, 238, 238, 1) 100%);
+  color: #666666;
+}
+
+.my-settlements.my-settlements-print table.settlement-datagrid tr.alternate {
+  background-color: white;
+}
+
+.my-settlements.my-settlements-print div.inv-footer {
+  display: none;
+}
+
+body.my-settlements.my-settlements-print {
+  height: 100%;
+}
+
+.my-settlements.my-settlements-print div#main {
+  height: 100%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  min-height: 880px;
+
+}
+
+.my-settlements.my-settlements-print div#print-area {
+  width: 99%;
+  display: flex;
+  justify-content: center;
+
+}
+
+.my-settlements.my-settlements-print table.settlement-detail {
+  width: 100%;
+}
+
+.my-settlements.my-settlements-print table.settlement-datagrid {
+  border: 1px solid black;
+  width: 95%;
+}
+
+
+
+/*Ends : .my-settlements.my-settlements-print */
+
+html.android-magic body.lot-details div article section div ul#slider4>li figure a#Zoom-1>.mz-figure>img {
+  width: auto !important;
+}
+
+.profile-view .hkqlchadzvtjfq-header-titles,
+.my-alerts-index .hkqlchadzvtjfq-header-titles,
+.my-items .hkqlchadzvtjfq-header-titles,
+.my-invoices-index .hkqlchadzvtjfq-header-titles {
+  display: none;
+}
+
+body.profile #zuwxoeujstw,
+body.my-items #zuwxoeujstw,
+body.my-items-watchlist #zuwxoeujstw,
+body.my-items-won #zuwxoeujstw,
+body.my-items-not-won #zuwxoeujstw,
+body.my-items-all #zuwxoeujstw,
+body.my-invoices #zuwxoeujstw {
+  padding-top: 19px;
+}
+
+body.my-items #zuwxoeujstw>.auc-top-menu,
+body.my-items-watchlist #zuwxoeujstw>.auc-top-menu,
+body.my-items-won #zuwxoeujstw>.auc-top-menu,
+body.my-items-not-won #zuwxoeujstw>.auc-top-menu,
+body.my-items-all #zuwxoeujstw>.auc-top-menu,
+body.my-invoices #zuwxoeujstw>.auc-top-menu {
+  display: flex;
+  padding-top: 11px;
+}
+
+@media only screen and (max-width: 568px) {
+  .my-items-mobile-hamburger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.downloadArea {
+  display: none;
+  border: 1px solid #E5E5E5;
+  background-color: #F8F8F8;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.downloadArea>a {
+  display: block;
+  margin: 5px;
+}
+
+
+/* pink button chnage for auction 133 */
+body.auction133.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .xihsecaiwi input[type=button],
+body.auction133.fhqtafqjvzcez .aucgrid li>section.xpqaxasqcfts .oygoihxpefpfgx .phgjgtcrqgt .xihsecaiwi .sdryvhaqesqe input[type=button],
+body.auction133.lot-details .auc_info_bid .bidfrm fieldset.nextbid .xihsecaiwi.bidding-next input[type=button].orng,
+body.auction133.lot-details .auc_info_bid .bidfrm fieldset.placebid ul li .xihsecaiwi .sdryvhaqesqe input.orng.place-bid,
+body.auction133.lot-details .auc_info_bid .bidfrm fieldset.forcebid ul li .xihsecaiwi .sdryvhaqesqe .force-bid {
+  background: #E5476E;
+}
+
+body.ytfckkueleozv .zsfjqqevuqlfz.aucgrid .sale_name {
+  height: 60px;
+  display: block;
+  overflow: hidden;
+}
+
+.lot-details .custom-field span {
+  color: #000F4B;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+  background: none;
+  text-transform: uppercase;
+}
+
+.lot-details .custom-field-top span {
+  color: #000F4B;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0px;
+  background: none;
+  text-transform: uppercase;
+}
+
+.lot-details .custom-field-top span:not(.cat-header) {
+  font-weight: 100
+}
+
+.login.login-index .regfrm.oyggewjghljtv ul.frm label {
+  width: 100%;
+}
+
+@media only screen and (max-width: 568px) {
+
+  .lot-details .description-info-content iframe {
+    width: 100%;
+    height: 300px;
+  }
+}
